@@ -1,6 +1,6 @@
 # CREATURA — Premium B2B Instagram Stories · 21–30.11.2026
 
-50 stories (5 per day), 1080 × 1920 px, PNG, RGB. The art direction is luxury European architectural editorial.
+50 stories (5 per day), 1080 × 1920 px, PNG, RGB. Minimal white-studio catalogue style: product on white, one line of copy, manufacturer wordmark.
 
 > **Status: layout system ready, product photography missing.** No original photos, videos or logos of Creatura or its manufacturers were supplied. Per the brief, no imagery was generated or substituted. Every image area is a marked placeholder named after the file it needs (see `MISSING_ASSETS.md`). Once the files are added, one command produces the final renders.
 
