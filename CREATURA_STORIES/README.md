@@ -60,3 +60,29 @@ The visual reference is a catalogue-style story: the product as a cutout on pure
 ## Content principles
 * Copy is taken verbatim from the brief. No specifications, model names or finish names were invented. Where they are needed there are neutral labels ("Отделка 01", "STV · модель 01") to replace, listed in `MISSING_ASSETS.md`.
 * Callouts list only construction elements named in the brief (body, faceplate, latch; joints, mounts…).
+
+---
+
+# Highlights (Актуальное) — brand catalogues
+
+The `HIGHLIGHTS/` folder holds one "Актуальное" section per brand, built in the same minimal white style. There are 9 brands: Salice, ATIM, STV, Formani, Verum, Salice Paolo, CEAM, FritsJurgens and Simonswerk.
+
+```
+HIGHLIGHTS/
+├── 01_SALICE … 09_SIMONSWERK/   00_cover.png (cover and first story) · 01.png … NN.png · cover_icon_1080x1080.png
+├── _preview/                    preview of each section and covers.png (all covers in a circle)
+└── README.md                    contents of each section and the source of every photo
+```
+
+How to publish: post the brand's stories in order (`00_cover`, then `01`, `02`, …), add them to a highlight with the brand's name, and use `cover_icon_1080x1080.png` as the highlight cover.
+
+Each section is structured as: cover, then about the brand and its contents, then product stories, then a catalogue request.
+* **Product card**: category, official photo, model name, short description and specs table.
+* **List**: up to 5 models with photo, description and key spec.
+* **Grid**: up to 6 models with photo and article code (Salice Paolo).
+
+**Content sources**: the manufacturers' official websites and catalogues (salice.com, stvserrature.it, formani.com, verumitaly.com, salicepaolo.it, ceamitalia.it, fritsjurgens.com, simonswerk.com). Specs are translated, with no data added. Raw data is in `source/highlights/research/`, and the texts are in `source/highlights/brands/<brand>.mjs`.
+
+**Photos**: the manufacturers' official images. White-background shots are trimmed and shown as cutouts; the rest are shown as clean rectangular blocks, and products are not altered. The source of each photo is listed in `HIGHLIGHTS/README.md`.
+
+**Rebuild**: `node source/highlights/build_highlights.mjs` (or `--only verum`, or `--no-fetch` to skip downloading). This needs network access to the manufacturers' sites.

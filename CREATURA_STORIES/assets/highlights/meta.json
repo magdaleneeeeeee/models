@@ -1,0 +1,2431 @@
+{
+ "atim/blade": {
+  "bg": "#be895f",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9028_n_salice-universal-box-pull-out-column-top-with-cutlery-tray-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/breakfast": {
+  "bg": "#b6b0b0",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9079_z_salice-breakfast-pull-out-top-DET-01.jpg",
+  "w": 945
+ },
+ "atim/breakfast-top": {
+  "bg": "#978f84",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9083_z_salice-breakfast-top-sliding-table-top-DET-0jpg.jpg",
+  "w": 945
+ },
+ "atim/brunch": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/cocktail": {
+  "bg": "#ada69c",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8960_z_salice-cocktail-pull-out-drawer-table-DET-01.jpg",
+  "w": 945
+ },
+ "atim/cook": {
+  "bg": "#be895f",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9028_n_salice-universal-box-pull-out-column-top-with-cutlery-tray-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/corner": {
+  "bg": "#5b4b3b",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9099_z_salice-corner-sliding-table-top-with-diagonal-opening-DET-03.jpg",
+  "w": 945
+ },
+ "atim/desk": {
+  "bg": "#9e8c76",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9019_z_salice-desk-drop-leaf-foldaway-desk-DET-06.jpg",
+  "w": 945
+ },
+ "atim/evolution": {
+  "bg": "#ccc7c3",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9063_z_salice-evolution-pull-out-cabinet-table-with-bridge-leg-DET-02.jpg",
+  "w": 945
+ },
+ "atim/evolution-39": {
+  "bg": "#c7b29f",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9127_z_salice-evolution-39-pull-out-cabinet-table-with-bridge-leg-DET-01.jpg",
+  "w": 945
+ },
+ "atim/evolution-xl": {
+  "bg": "#909291",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9067_z_salice-evolution-xl-pull-out-cabinet-table-with-bridge-leg-DET-02.jpg",
+  "w": 945
+ },
+ "atim/evolution-xl-39": {
+  "bg": "#cbb39b",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9131_z_salice-evolution-xl-39-pull-out-cabinet-table-with-bridge-leg-DET-02.jpg",
+  "w": 945
+ },
+ "atim/flip-top": {
+  "bg": "#97a2a8",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9075_z_salice-flip-top-pull-out-drawer-worktop-with-easybook-DET-01.jpg",
+  "w": 945
+ },
+ "atim/functional": {
+  "bg": "#8e8b84",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9031_z_salice-functional-pull-out-column-top-with-cutlery-tray-DET-01.jpg",
+  "w": 945
+ },
+ "atim/just": {
+  "bg": "#ae9a8f",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9044_n_salice-t-able-t-able-xl-pull-out-drawer-table-with-single-telescopic-folding-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/lunch": {
+  "bg": "#d3cfce",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8966_z_salice-lunch-pull-out-drawer-table-DET-03.jpg",
+  "w": 945
+ },
+ "atim/lunch-39": {
+  "bg": "#beb4b3",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9128_n_salice-evolution-39-pull-out-cabinet-table-with-bridge-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/lunch-reverse": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/mensola-party": {
+  "bg": "#697456",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9059_z_salice-mensola-party-pull-out-drawer-table-wit-double-telescopic-folding-leg-DET-02.jpg",
+  "w": 945
+ },
+ "atim/mensola-t-able-39": {
+  "bg": "#aea79f",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9135_z_salice-mensola-t-able-39-pull-out-drawer-table-with-double-telescopic-folding-leg-DET-03.jpg",
+  "w": 945
+ },
+ "atim/opla": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/opla-39": {
+  "bg": "#c4c0bd",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9147_z_salice-opla-39-pull-out-top-flush-with-shelf-DET-01.jpg",
+  "w": 945
+ },
+ "atim/opla-folding": {
+  "bg": "#dddad5",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9003_z_salice-opla-folding-pull-out-top-alligned-with-shelf-DET-01.jpg",
+  "w": 945
+ },
+ "atim/opla-folding-39": {
+  "bg": "#beb4b3",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9128_n_salice-evolution-39-pull-out-cabinet-table-with-bridge-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/opla-folding-compact": {
+  "bg": "#3f3d3e",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9007_z_salice-opla-folding-compact-pull-out-top-alligned-with-shelf-DET-02.jpg",
+  "w": 945
+ },
+ "atim/opla-folding-compact-39": {
+  "bg": "#beb4b3",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9128_n_salice-evolution-39-pull-out-cabinet-table-with-bridge-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/opla-folding-steel": {
+  "bg": "#4e4e4c",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8999_z_salice-opla-folding-acciiaio-pull-out-top-alligned-with-inox-shelf-DET-05.jpg",
+  "w": 945
+ },
+ "atim/opla-top": {
+  "bg": "#e5d9bf",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9071_z_salice-opla-top-pull-out-top-alligned-with-counter-top-DET-02.jpg",
+  "w": 945
+ },
+ "atim/party": {
+  "bg": "#829076",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9060_n_salice-mensola-party-pull-out-drawer-table-wit-double-telescopic-folding-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/prua": {
+  "bg": "#adaca7",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9167_z_salice-prua-pull-out-ironing-board-DET-03.jpg",
+  "w": 945
+ },
+ "atim/prua-lift": {
+  "bg": "#545454",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9175_z_salice-prua-lift-tilting-ironing-board-DET-02.jpg",
+  "w": 945
+ },
+ "atim/prua-short": {
+  "bg": "#bbbab6",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9168_n_salice-prua-pull-out-ironing-board-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/ready": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/sestante": {
+  "bg": "#806e64",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9112_n_salice-voila-flag-pull-out-top-table-with-legs-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/shot": {
+  "bg": "#44534c",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9011_z_salice-shot-pull-out-drawer-worktop-DET-03.jpg",
+  "w": 945
+ },
+ "atim/shot-39": {
+  "bg": "#beb4b3",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9128_n_salice-evolution-39-pull-out-cabinet-table-with-bridge-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/shot-folding": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/shot-folding-39": {
+  "bg": "#abaab0",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9164_n_salice-shot-folding-39-pull-out-drawer-worktop-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/siesta": {
+  "bg": "#939d9e",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8955_n_salice-brunch-pull-out-drawer-table-open-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/slide": {
+  "bg": "#d5cbc1",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9072_n_salice-opla-top-pull-out-top-alligned-with-counter-top-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/snack": {
+  "bg": "#c2a57d",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9087_z_salice-snack-sliding-table-top-DET-01.jpg",
+  "w": 945
+ },
+ "atim/snack-top": {
+  "bg": "#dcc7ac",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9091_z_salice-snack-top-sliding-table-top-DET-01.jpg",
+  "w": 945
+ },
+ "atim/t-able-t-able-xl": {
+  "bg": "#aba7a4",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9048_n_salice-t-bench-t-bench-xl-pull-out-drawer-table-with-single-folding-leg-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/t-bench-39": {
+  "bg": "#d6cdc4",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9139_z_salice--t-bench-39-pull-out-drawer-bench-with-single-folding-leg-DET-02.jpg",
+  "w": 945
+ },
+ "atim/t-bench-t-bench-xl": {
+  "bg": "#ae9a8f",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9044_n_salice-t-able-t-able-xl-pull-out-drawer-table-with-single-telescopic-folding-leg-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/top-33": {
+  "bg": "#d5cbc1",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9072_n_salice-opla-top-pull-out-top-alligned-with-counter-top-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/twice-top": {
+  "bg": "#838184",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9103_z_salice-twice-top-sliding-table-top-DET-03.jpg",
+  "w": 945
+ },
+ "atim/universal": {
+  "bg": "#56453b",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8949_n_salice-siesta-pull-out-drawer-table-PRE-02.jpg",
+  "w": 503
+ },
+ "atim/universal-box": {
+  "bg": "#564d44",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9027_z_salice-universal-box-pull-out-column-top-with-cutlery-tray-DET-04.jpg",
+  "w": 945
+ },
+ "atim/voila-chair": {
+  "bg": "#806e64",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9112_n_salice-voila-flag-pull-out-top-table-with-legs-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/voila-chair-reverse": {
+  "bg": "#806e64",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9112_n_salice-voila-flag-pull-out-top-table-with-legs-PRE-01.jpg",
+  "w": 503
+ },
+ "atim/voila-flag": {
+  "bg": "#5b493f",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9120_n_salice-voila-chair-reverse-foldaway-top-table-with-legs-PRE-01.jpg",
+  "w": 503
+ },
+ "ceam/1129": {
+  "bg": "#95928d",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/05/1129-e1530189090622.jpg",
+  "w": 1600
+ },
+ "ceam/1130s": {
+  "bg": "#adacaa",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1130.jpg",
+  "w": 1600
+ },
+ "ceam/1131s": {
+  "bg": "#918e89",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1131s_Casa.jpg",
+  "w": 1600
+ },
+ "ceam/1230s": {
+  "bg": "#a7856a",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1230.jpg",
+  "w": 1600
+ },
+ "ceam/1235s": {
+  "bg": "#adacaa",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1235.jpg",
+  "w": 1600
+ },
+ "ceam/1418": {
+  "bg": "#a9aaac",
+  "h": 1256,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2023/05/1418-scaled.jpg",
+  "w": 1600
+ },
+ "ceam/1428": {
+  "bg": "#97aca6",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2024/10/1428-scaled.jpg",
+  "w": 1501
+ },
+ "ceam/1429": {
+  "bg": "#a9a9a9",
+  "h": 1067,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2021/10/1429_New.jpg",
+  "w": 1600
+ },
+ "ceam/1430": {
+  "bg": "#a8a8a8",
+  "h": 1041,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2021/12/1430_1-scaled.jpg",
+  "w": 1600
+ },
+ "ceam/1430wb": {
+  "bg": "#ffffff",
+  "h": 778,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2022/12/1430WB.jpg",
+  "w": 407
+ },
+ "ceam/1431": {
+  "bg": "#b6a999",
+  "h": 902,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2021/11/1431_New.jpg",
+  "w": 1600
+ },
+ "ceam/1432": {
+  "bg": "#a9a9a9",
+  "h": 1256,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2022/12/1432-1-scaled.jpg",
+  "w": 1600
+ },
+ "ceam/1432w": {
+  "bg": "#b4b6b3",
+  "h": 989,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2022/12/1432W-1-scaled.jpg",
+  "w": 1600
+ },
+ "ceam/1450": {
+  "bg": "#a9aaac",
+  "h": 1004,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2024/10/1450-scaled.jpg",
+  "w": 1600
+ },
+ "ceam/2010": {
+  "bg": "#ffffff",
+  "h": 791,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/2010-1.jpg",
+  "w": 577
+ },
+ "ceam/2015": {
+  "bg": "#ffffff",
+  "h": 790,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/2015-1.jpg",
+  "w": 562
+ },
+ "ceam/731": {
+  "bg": "#ffffff",
+  "h": 789,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/731-2.jpg",
+  "w": 495
+ },
+ "ceam/800": {
+  "bg": "#ffffff",
+  "h": 787,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/930800-2.jpg",
+  "w": 387
+ },
+ "ceam/804": {
+  "bg": "#ffffff",
+  "h": 788,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/829804-2.jpg",
+  "w": 420
+ },
+ "ceam/829": {
+  "bg": "#ffffff",
+  "h": 760,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/829-1.jpg",
+  "w": 476
+ },
+ "ceam/830": {
+  "bg": "#ffffff",
+  "h": 789,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/830.jpg",
+  "w": 452
+ },
+ "ceam/831": {
+  "bg": "#ffffff",
+  "h": 791,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/831-1.jpg",
+  "w": 498
+ },
+ "ceam/832s": {
+  "bg": "#ffffff",
+  "h": 788,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/832-1.jpg",
+  "w": 510
+ },
+ "ceam/929": {
+  "bg": "#acaba9",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/929.jpg",
+  "w": 1600
+ },
+ "ceam/930": {
+  "bg": "#ffffff",
+  "h": 789,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/930-1.jpg",
+  "w": 449
+ },
+ "ceam/accessories": {
+  "bg": "#ffffff",
+  "h": 316,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/10/IMG.jpg",
+  "w": 312
+ },
+ "ceam/furniture": {
+  "bg": "#a77868",
+  "h": 740,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/09/cerniera08_mod-1.jpg",
+  "w": 1600
+ },
+ "ceam/glass": {
+  "bg": "#969593",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1080-1.jpg",
+  "w": 1600
+ },
+ "ceam/inox": {
+  "bg": "#9f9c89",
+  "h": 1150,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1130_Inox-yacht.jpg",
+  "w": 1600
+ },
+ "ceam/opening": {
+  "bg": "#d8d8d8",
+  "h": 445,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/09/1m_0.jpg",
+  "w": 1170
+ },
+ "ceam/supports": {
+  "bg": "#ffffff",
+  "h": 238,
+  "mode": "cut",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/09/img-38.jpg",
+  "w": 68
+ },
+ "formani/arc-by-piet-boon": {
+  "bg": "#1c1a1b",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/1817/7615/3740/ARC-champagne-main.jpg",
+  "w": 1600
+ },
+ "formani/basics-by-formani": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/5816/1062/0678/Formani_Basics_satin_stainless_steel_-_Main.jpg",
+  "w": 1600
+ },
+ "formani/bobby-by-eric-kuster": {
+  "bg": "#1f1f1f",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2616/3240/8053/Formani_10095_main.jpg",
+  "w": 1600
+ },
+ "formani/bosco-by-lazaro-rosa-violan": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2716/1251/1650/FORMANI_BOSCO_10076.jpg",
+  "w": 1600
+ },
+ "formani/cone-by-osiris-hertman": {
+  "bg": "#1b1b1b",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2716/2489/1628/FORMANI_CONE_10098-main.jpg",
+  "w": 1600
+ },
+ "formani/eclipse-by-david-rockwell": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/7617/3384/6219/collectie-formani-dr102-satin-stainless-steel.jpg",
+  "w": 1600
+ },
+ "formani/edgy-by-mathieu-bruls": {
+  "bg": "#1f1f21",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/5516/1461/4046/EDGY_03_10071-slider.jpg",
+  "w": 1600
+ },
+ "formani/eleez-by-zaha-hadid-design": {
+  "bg": "#1b191a",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/9617/7615/3959/ELEEZ-champagne-main.jpg",
+  "w": 1600
+ },
+ "formani/ferrovia-by-formani": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6316/1062/3362/Formani_Ferrovia_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "formani/fold-by-tord-boontje": {
+  "bg": "#242426",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6616/1251/1932/FORMANI_FOLD_10104.jpg",
+  "w": 1600
+ },
+ "formani/inc-by-piet-boon": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6516/1062/2908/Formani_INC_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "formani/nour-by-edward-van-vliet": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6416/1435/3277/FORMANI_NOUR_10200.jpg",
+  "w": 1600
+ },
+ "formani/one-by-piet-boon": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/3916/1062/2154/Formani_ONE_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "formani/ribbon-by-bob-manders": {
+  "bg": "#242426",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/9016/1433/1926/FORMANI_2_10107.jpg",
+  "w": 1600
+ },
+ "formani/rivio": {
+  "bg": "#252525",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/1116/7361/3322/GL101_satin_stainless_steel.jpg",
+  "w": 1600
+ },
+ "formani/square-by-jan-des-bouvrie": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/3716/1487/3287/FORMANI_SQUARE_10066.jpg",
+  "w": 1600
+ },
+ "formani/tense-by-bertram-beerbaum": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/7016/1062/3044/Formani_Tense_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "formani/timeless-by-formani": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2216/1461/4658/FORMANI_TIMELESS_10156.jpg",
+  "w": 1600
+ },
+ "formani/two-by-piet-boon": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/5416/1062/2364/Formani_TWO_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "fritsjurgens/axle-wrench": {
+  "bg": "#ffffff",
+  "h": 260,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/sites/1/2019/09/axle-wrench-1.png",
+  "w": 420
+ },
+ "fritsjurgens/floor-plate": {
+  "bg": "#ffffff",
+  "h": 638,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/products/floorplates/floor-plate-fp-m-s-ss-top-r1.jpg",
+  "w": 1194
+ },
+ "fritsjurgens/flush": {
+  "bg": "#ffffff",
+  "h": 493,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/sites/1/2019/05/fritsjurgens-flush-slider.png",
+  "w": 1086
+ },
+ "fritsjurgens/hexagon": {
+  "bg": "#ffffff",
+  "h": 381,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/sites/1/2019/04/hexagon-guide-fritsjurgens.png",
+  "w": 563
+ },
+ "fritsjurgens/system-3": {
+  "bg": "#ffffff",
+  "h": 507,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/3-new-scale.png",
+  "w": 558
+ },
+ "fritsjurgens/system-fx": {
+  "bg": "#ffffff",
+  "h": 222,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/fx-new-scale-1747309868.png",
+  "w": 787
+ },
+ "fritsjurgens/system-fx-slim": {
+  "bg": "#ffffff",
+  "h": 246,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/products/system-fx-slim/slim-fx-front-r5.jpg",
+  "w": 918
+ },
+ "fritsjurgens/system-m-plus": {
+  "bg": "#ffffff",
+  "h": 370,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/m--new-scale-1747309826.png",
+  "w": 977
+ },
+ "fritsjurgens/system-one": {
+  "bg": "#ffffff",
+  "h": 153,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/one-new-scale-1747309961.png",
+  "w": 615
+ },
+ "fritsjurgens/system-one-slim": {
+  "bg": "#ffffff",
+  "h": 246,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/products/system-one-slim/slim-one-front-r5.jpg",
+  "w": 914
+ },
+ "fritsjurgens/tp40": {
+  "bg": "#ffffff",
+  "h": 423,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/tp40-g-scale.png",
+  "w": 658
+ },
+ "fritsjurgens/tp70": {
+  "bg": "#ffffff",
+  "h": 303,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/tp70-g-new-scale.png",
+  "w": 686
+ },
+ "fritsjurgens/tpr": {
+  "bg": "#ffffff",
+  "h": 267,
+  "mode": "cut",
+  "src": "https://cdn.fritsjurgens.com/tpr-new-scale.png",
+  "w": 922
+ },
+ "salice/adapto": {
+  "bg": "#ab8765",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9509_z_salice-adapto-metal-drawer-DET-05b.jpg",
+  "w": 945
+ },
+ "salice/air": {
+  "bg": "#bcbabb",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/396_z_salice-concealed-hinges-air-DET-02.jpg",
+  "w": 945
+ },
+ "salice/chromia": {
+  "bg": "#867b79",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8433_z_salice-chromia-outdoor-hinges-DET-04.jpg",
+  "w": 945
+ },
+ "salice/conecta": {
+  "bg": "#929294",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/6444_z_salice-conecta-concealed-hinge-DET-04-C.jpg",
+  "w": 945
+ },
+ "salice/evolift": {
+  "bg": "#c0b3a2",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/4055_z_salice-opening-system-evolift-flap-door-DET-02.jpg",
+  "w": 945
+ },
+ "salice/exc-hang": {
+  "bg": "#bca385",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1361_z_salice-excessories-night-collection-hang-DET-01_1.jpg",
+  "w": 945
+ },
+ "salice/exc-pullout": {
+  "bg": "#564a3c",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1499_z_salice-excessories-night-collection-pull-out-DET-08_1.jpg",
+  "w": 945
+ },
+ "salice/exc-shelves": {
+  "bg": "#69533b",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1513_z_salice-excessories-night-collection-shelves-DET-05_2.jpg",
+  "w": 945
+ },
+ "salice/exedra": {
+  "bg": "#b2b3b7",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7955_z_salice-exedra-gravity-pocket-doors-system-DET-01.jpg",
+  "w": 945
+ },
+ "salice/folder": {
+  "bg": "#cecece",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7922_z_salice-folder-90-double-hinged-door-DETT-01.jpg",
+  "w": 945
+ },
+ "salice/futura": {
+  "bg": "#d0cccb",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1066_z_salice-futura-unica-concealed-runner-DET-01.jpg",
+  "w": 945
+ },
+ "salice/glow": {
+  "bg": "#bbb6b2",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/9200_z_salice-sliding-system-overlapping-glow-plus-DET-05b.jpg",
+  "w": 945
+ },
+ "salice/lapis": {
+  "bg": "#0d0e12",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/436_z_salice-hinges-with-cover-lapis-DET-02.jpg",
+  "w": 945
+ },
+ "salice/lineabox": {
+  "bg": "#aba49e",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7452_z_salice-lineabox-metal-drawer-DET-02_1.jpg",
+  "w": 945
+ },
+ "salice/luxer": {
+  "bg": "#939192",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8150_z_salice-luxer-room-modular-system-DETT-03a.jpg",
+  "w": 945
+ },
+ "salice/mover": {
+  "bg": "#aca89f",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/499_z_salice-downward-sliding-system-mover-flat-DET-02.jpg",
+  "w": 945
+ },
+ "salice/pacta": {
+  "bg": "#a39179",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8276_z_salice-hinges-fall-flaps-doors-pacta-DET-04e.jpg",
+  "w": 945
+ },
+ "salice/pin": {
+  "bg": "#604c45",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1360_z_accessories-pin-wine-DET-01.jpg",
+  "w": 945
+ },
+ "salice/progressa": {
+  "bg": "#3e3b2a",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7552_z_salice-progressa-concealed-runner-DET-18_c.jpg",
+  "w": 945
+ },
+ "salice/progressa-plus": {
+  "bg": "#3e3b2a",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7600_z_salice-progressa-concealed-runner-DET-18_c.jpg",
+  "w": 945
+ },
+ "salice/push": {
+  "bg": "#bb7539",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1367_n_salice-release-devices-PRE-03.jpg",
+  "w": 503
+ },
+ "salice/push-hinge": {
+  "bg": "#ddcdac",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/401_z_salice-magnetic-release-devices-DET-01.jpg",
+  "w": 945
+ },
+ "salice/self-closing": {
+  "bg": "#e0e2e1",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1104_n_hinges-automatic-closing-PRE-01.jpg",
+  "w": 503
+ },
+ "salice/shelf": {
+  "bg": "#bbbcc0",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/1077_z_salice-pull-out-shelf-DET-01_2.jpg",
+  "w": 945
+ },
+ "salice/silentia": {
+  "bg": "#c8d2b7",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/165_n_salice-domi-snap-on-mounting-plates-PRE-01.jpg",
+  "w": 503
+ },
+ "salice/slider": {
+  "bg": "#918579",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/507_z_coplanar-sliding-system-kitchen-and-small-wall-cabinets-slider-s10-DET-02.jpg",
+  "w": 945
+ },
+ "salice/smove": {
+  "bg": "#91583a",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/571_z_salice-universal-smoveholder-Smove-DET-02.jpg",
+  "w": 945
+ },
+ "salice/tilt": {
+  "bg": "#b9b0ab",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8871_z_salice-tilt-down-flap-door-system-DETT-04a.jpg",
+  "w": 945
+ },
+ "salice/unica": {
+  "bg": "#d0cccb",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/923_z_salice-futura-unica-concealed-runner-DET-01.jpg",
+  "w": 945
+ },
+ "salice/universal": {
+  "bg": "#a1a2a6",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/4904_z_salice-universal-hinges-series-b-glass-doors-DET-07.jpg",
+  "w": 945
+ },
+ "salice/wind": {
+  "bg": "#a08568",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/8228_z_salice-lifting-system-wind-DET-07c.jpg",
+  "w": 945
+ },
+ "salicepaolo/calliope-135-calliope-7201-a": {
+  "bg": "#9e7b5d",
+  "h": 229,
+  "mode": "plate",
+  "src": "https://www.salicepaolo.it/gallery/475/Afrodite7201_a.jpg",
+  "w": 300
+ },
+ "salicepaolo/calliope-135-calliope-7203": {
+  "bg": "#ffffff",
+  "h": 275,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/473/Calliope_portasalvietta-ospite_DOR-POV_web.jpg",
+  "w": 942
+ },
+ "salicepaolo/calliope-135-calliope-7204": {
+  "bg": "#fefefe",
+  "h": 303,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/479/Afrodite7204.jpg",
+  "w": 300
+ },
+ "salicepaolo/door-pull-116-arnica": {
+  "bg": "#ffffff",
+  "h": 1542,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/861/ARNICA_maniglione-A_NL_2023.jpg",
+  "w": 199
+ },
+ "salicepaolo/door-pull-116-ascot": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/536/ASCOT_maniglione_400_NL.jpg",
+  "w": 213
+ },
+ "salicepaolo/door-pull-116-borbone-783": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/978/BORBONE_maniglione_NL.jpg",
+  "w": 306
+ },
+ "salicepaolo/door-pull-116-borromeo-775": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/970/BORROMEO_maniglione_NL.jpg",
+  "w": 295
+ },
+ "salicepaolo/door-pull-116-casati": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/996/CASATI_maniglione_NL.jpg",
+  "w": 256
+ },
+ "salicepaolo/door-pull-116-cipriani": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/997/CIPRIANI_maniglione_NL.jpg",
+  "w": 364
+ },
+ "salicepaolo/door-pull-116-deco-788": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/983/DECO_maniglione_NL.jpg",
+  "w": 292
+ },
+ "salicepaolo/door-pull-116-diamante-66": {
+  "bg": "#ffffff",
+  "h": 1574,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/67/DIAMANTE_maniglione_NL_2023_web.jpg",
+  "w": 335
+ },
+ "salicepaolo/door-pull-116-fresia-900": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1141/FRESIA_maniglione_int800_NL_web.jpg",
+  "w": 83
+ },
+ "salicepaolo/door-pull-116-hamilton-914": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1188/HAMILTON_man_NL_web.jpg",
+  "w": 175
+ },
+ "salicepaolo/door-pull-116-tudor-758": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/953/TUDOR_maniglione_A.jpg",
+  "w": 164
+ },
+ "salicepaolo/door-pull-116-victoria": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/322/VICTORIA_maniglione_400_NL.jpg",
+  "w": 372
+ },
+ "salicepaolo/door-pull-116-york-769": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/964/YORK_maniglione_A_NL.jpg",
+  "w": 288
+ },
+ "salicepaolo/door-pull-angkor": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1224/3084_Angkor_man_liscio_NL.jpg",
+  "w": 210
+ },
+ "salicepaolo/door-pull-angkor-r": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1237/3083_OL.jpg",
+  "w": 207
+ },
+ "salicepaolo/door-pull-ankara": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/572/ANKARA-01.jpg",
+  "w": 142
+ },
+ "salicepaolo/door-pull-berna": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1035/3082.jpg",
+  "w": 210
+ },
+ "salicepaolo/door-pull-bombay": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/568/BOMBAY-01.jpg",
+  "w": 99
+ },
+ "salicepaolo/door-pull-gulliver": {
+  "bg": "#ffffff",
+  "h": 982,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/298/GULLIVER_maniglione_POV_big_1562856290.jpg",
+  "w": 76
+ },
+ "salicepaolo/door-pull-istanbul": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/299/ISTANBUL-01.jpg",
+  "w": 120
+ },
+ "salicepaolo/door-pull-karachi": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/326/KARACHI-01.jpg",
+  "w": 108
+ },
+ "salicepaolo/door-pull-king-600": {
+  "bg": "#ffffff",
+  "h": 926,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/670/KING_maniglione_BAS.jpg",
+  "w": 194
+ },
+ "salicepaolo/door-pull-madras": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/672/MADRAS_maniglione.jpg",
+  "w": 97
+ },
+ "salicepaolo/door-pull-parigi-607": {
+  "bg": "#ffffff",
+  "h": 957,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/677/PRINCE_maniglione_BAS.jpg",
+  "w": 217
+ },
+ "salicepaolo/door-pull-sparta": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/679/SPARTA.jpg",
+  "w": 120
+ },
+ "salicepaolo/entrance-set-aladin": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/258/ALADIN_3225_1610529927.jpg",
+  "w": 823
+ },
+ "salicepaolo/entrance-set-boston": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/332/BOSTON_3205.jpg",
+  "w": 717
+ },
+ "salicepaolo/entrance-set-memphis": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/279/MEMPHIS_3200.jpg",
+  "w": 868
+ },
+ "salicepaolo/entrance-set-miami": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/257/MIAMI_3230.jpg",
+  "w": 755
+ },
+ "salicepaolo/entrance-set-new-yor": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/740/NEW-YORK_3235.jpg",
+  "w": 827
+ },
+ "salicepaolo/entrance-set-seattle-580": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/651/SEATTLE_3240.jpg",
+  "w": 615
+ },
+ "salicepaolo/furniture-handles-and-knobs-arianna-445bis": {
+  "bg": "#ffffff",
+  "h": 665,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/65/DIAMANTE_pomolini_A_B_C_D_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-arianna-460": {
+  "bg": "#ffffff",
+  "h": 958,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/42/ARUM_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-arianna-4621": {
+  "bg": "#ffffff",
+  "h": 1005,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/36/ASTER_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-arianna-885": {
+  "bg": "#ffffff",
+  "h": 866,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1087/ARIANNA_pomolini-A-B-C_NL.jpg",
+  "w": 1409
+ },
+ "salicepaolo/furniture-handles-and-knobs-borbone-784": {
+  "bg": "#ffffff",
+  "h": 971,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/979/BORBONE_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-borromeo-776": {
+  "bg": "#ffffff",
+  "h": 867,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/971/BORROMEO_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-deco-790": {
+  "bg": "#ffffff",
+  "h": 433,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/985/DECO_manigliette-A-e-B_NL.jpg",
+  "w": 1122
+ },
+ "salicepaolo/furniture-handles-and-knobs-fresia-795": {
+  "bg": "#ffffff",
+  "h": 621,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/990/FRESIA_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-hamilton-917": {
+  "bg": "#ffffff",
+  "h": 1499,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1201/Hamilton_maniglietta_A_NL_web.jpg",
+  "w": 117
+ },
+ "salicepaolo/furniture-handles-and-knobs-pitti-903": {
+  "bg": "#ffffff",
+  "h": 345,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1143/PITTI_manigliette-A-e-B_NL_web.jpg",
+  "w": 899
+ },
+ "salicepaolo/furniture-handles-and-knobs-tudor-760": {
+  "bg": "#ffffff",
+  "h": 596,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/955/TUDOR_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-handles-and-knobs-york-770": {
+  "bg": "#ffffff",
+  "h": 701,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/965/YORK_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-stud-botticelli": {
+  "bg": "#ffffff",
+  "h": 199,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/526/thumb_BOTTICELLI-011.jpg",
+  "w": 197
+ },
+ "salicepaolo/furniture-stud-caravaggio": {
+  "bg": "#ffffff",
+  "h": 180,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/527/thumb_CARAVAGGIO-0111.jpg",
+  "w": 174
+ },
+ "salicepaolo/furniture-stud-ginevra-811": {
+  "bg": "#ffffff",
+  "h": 448,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1009/GINEVRA_maniglietta_BAS.jpg",
+  "w": 1600
+ },
+ "salicepaolo/furniture-stud-giotto": {
+  "bg": "#ffffff",
+  "h": 204,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/528/thumb_GIOTTO-011.jpg",
+  "w": 212
+ },
+ "salicepaolo/furniture-stud-leonardo": {
+  "bg": "#ffffff",
+  "h": 208,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/529/thumb_LEONARDO-011.jpg",
+  "w": 217
+ },
+ "salicepaolo/furniture-stud-masaccio": {
+  "bg": "#ffffff",
+  "h": 193,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/530/thumb_MASACCIO-011.jpg",
+  "w": 170
+ },
+ "salicepaolo/furniture-stud-michelangelo": {
+  "bg": "#ffffff",
+  "h": 180,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/531/thumb_MICHELANGELO-011.jpg",
+  "w": 180
+ },
+ "salicepaolo/furniture-stud-pomolino-416": {
+  "bg": "#ffffff",
+  "h": 609,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/532/416-A-B.jpg",
+  "w": 465
+ },
+ "salicepaolo/furniture-stud-raffaello": {
+  "bg": "#ffffff",
+  "h": 194,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/533/thumb_RAFFAELLO-011.jpg",
+  "w": 182
+ },
+ "salicepaolo/furniture-stud-tiziano": {
+  "bg": "#ffffff",
+  "h": 165,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/534/thumb_TIZIANO-01.jpg",
+  "w": 156
+ },
+ "salicepaolo/furniture-stud-urbino-732": {
+  "bg": "#ffffff",
+  "h": 509,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/875/URBINO_manigliette_1934A-B_web.jpg",
+  "w": 927
+ },
+ "salicepaolo/furniture-stud-versailles-815": {
+  "bg": "#ffffff",
+  "h": 364,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1012/VERSAILLES_maniglietta_DORPOV.jpg",
+  "w": 1600
+ },
+ "salicepaolo/handles-113-borbone-780": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/975/BORBONE_pl_NL.jpg",
+  "w": 956
+ },
+ "salicepaolo/handles-113-borromeo": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/968/BORROMEO_pl_NL.jpg",
+  "w": 974
+ },
+ "salicepaolo/handles-113-carrara": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/709/SFORZA_pl_NL.jpg",
+  "w": 824
+ },
+ "salicepaolo/handles-113-cassia-48": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/49/CASSIA_pl_NL.jpg",
+  "w": 861
+ },
+ "salicepaolo/handles-113-celsia-904": {
+  "bg": "#ffffff",
+  "h": 928,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1144/CELSIA_pl_NL_web.jpg",
+  "w": 541
+ },
+ "salicepaolo/handles-113-deco": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/711/DECO_pl_NL.jpg",
+  "w": 715
+ },
+ "salicepaolo/handles-113-diamante-799": {
+  "bg": "#ffffff",
+  "h": 1502,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/994/DIAMANTE_pl_NL_2023_web.jpg",
+  "w": 802
+ },
+ "salicepaolo/handles-113-fresia-718": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/869/FRESIA_pl_NL.jpg",
+  "w": 871
+ },
+ "salicepaolo/handles-113-hamilton": {
+  "bg": "#ffffff",
+  "h": 1547,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1185/HAMILTON_pl_NL_web.jpg",
+  "w": 974
+ },
+ "salicepaolo/handles-113-kone-jewel": {
+  "bg": "#ffffff",
+  "h": 1174,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1217/Krone_rb_OL-lapislazzulo.jpg",
+  "w": 1473
+ },
+ "salicepaolo/handles-113-krone-2035": {
+  "bg": "#ffffff",
+  "h": 1176,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1219/Krone_rb_NL_neutra.jpg",
+  "w": 1473
+ },
+ "salicepaolo/handles-113-krone-lux-927": {
+  "bg": "#ffffff",
+  "h": 1183,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1218/Krone_rb_OCS-marmo-verde-Guatemala.jpg",
+  "w": 1460
+ },
+ "salicepaolo/handles-113-krone-sartorial-925": {
+  "bg": "#ffffff",
+  "h": 1174,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1216/Krone_rb_OCL-pelle-nera.jpg",
+  "w": 1475
+ },
+ "salicepaolo/handles-113-medina": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/728/MEDINA_pl_NL.jpg",
+  "w": 776
+ },
+ "salicepaolo/handles-113-pitti-892": {
+  "bg": "#ffffff",
+  "h": 965,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1097/Pitti_pl_NL.jpg",
+  "w": 549
+ },
+ "salicepaolo/handles-113-sveva": {
+  "bg": "#ffffff",
+  "h": 928,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1137/SVEVA_pl_NL_web.jpg",
+  "w": 515
+ },
+ "salicepaolo/handles-113-taylor": {
+  "bg": "#ffffff",
+  "h": 1546,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1242/TAYLOR_pl_NL_web.jpg",
+  "w": 922
+ },
+ "salicepaolo/handles-113-tudor-754": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/932/TUDOR_pl_NL.jpg",
+  "w": 983
+ },
+ "salicepaolo/handles-113-york-765": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/960/YORK_pl_NL.jpg",
+  "w": 977
+ },
+ "salicepaolo/handles-abu-dhabi": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1002/ABU_DHABI_pl_ALPOV.jpg",
+  "w": 834
+ },
+ "salicepaolo/handles-avignone": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/413/AVIGNONE-01.jpg",
+  "w": 291
+ },
+ "salicepaolo/handles-baku": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/699/Baku.jpg",
+  "w": 319
+ },
+ "salicepaolo/handles-beirut": {
+  "bg": "#ffffff",
+  "h": 927,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/280/Beirut_pl_AV_web.jpg",
+  "w": 398
+ },
+ "salicepaolo/handles-bordeaux": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/701/BORDEAUX-01.jpg",
+  "w": 217
+ },
+ "salicepaolo/handles-bruges": {
+  "bg": "#ffffff",
+  "h": 922,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/702/BRUGES_placca_BAS.jpg",
+  "w": 486
+ },
+ "salicepaolo/handles-cadice-635": {
+  "bg": "#ffffff",
+  "h": 942,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/705/CADICE_pl_small_D.jpg",
+  "w": 464
+ },
+ "salicepaolo/handles-capua": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/706/Capua2.jpg",
+  "w": 473
+ },
+ "salicepaolo/handles-cortona": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1031/3366.jpg",
+  "w": 860
+ },
+ "salicepaolo/handles-dakar-280": {
+  "bg": "#ffffff",
+  "h": 744,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/321/DAKAR-02.jpg",
+  "w": 399
+ },
+ "salicepaolo/handles-damasco": {
+  "bg": "#ffffff",
+  "h": 925,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/274/DAMASCO_pl_BAS_web.jpg",
+  "w": 444
+ },
+ "salicepaolo/handles-doha-645": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/717/Doha2.jpg",
+  "w": 408
+ },
+ "salicepaolo/handles-dubai": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/719/DUBAI_placca.jpg",
+  "w": 371
+ },
+ "salicepaolo/handles-eolica-170": {
+  "bg": "#ffffff",
+  "h": 888,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/212/8012_EOLICA_pl_BAS.jpg",
+  "w": 1124
+ },
+ "salicepaolo/handles-erice": {
+  "bg": "#ffffff",
+  "h": 967,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1027/ERICE_pl_OL_1547810553.jpg",
+  "w": 613
+ },
+ "salicepaolo/handles-ginevra": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/333/GINEVRA-01.jpg",
+  "w": 454
+ },
+ "salicepaolo/handles-giza-849": {
+  "bg": "#ffffff",
+  "h": 926,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1053/GIZA_pl_POV.jpg",
+  "w": 560
+ },
+ "salicepaolo/handles-hannover": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/303/HANNOVER-01.jpg",
+  "w": 342
+ },
+ "salicepaolo/handles-jakarta-522": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/564/JAKARTA-01.jpg",
+  "w": 327
+ },
+ "salicepaolo/handles-king-717": {
+  "bg": "#ffffff",
+  "h": 894,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/862/KING_pl_DOR.jpg",
+  "w": 605
+ },
+ "salicepaolo/handles-lille": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/722/Lille2.jpg",
+  "w": 404
+ },
+ "salicepaolo/handles-lisbona": {
+  "bg": "#ffffff",
+  "h": 900,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/724/Lisbona_pl_DOR_web.jpg",
+  "w": 406
+ },
+ "salicepaolo/handles-lucca": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/306/LUCCA-01.jpg",
+  "w": 399
+ },
+ "salicepaolo/handles-luxor": {
+  "bg": "#ffffff",
+  "h": 730,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/275/LUXOR-01.jpg",
+  "w": 375
+ },
+ "salicepaolo/handles-montpellier": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/730/MONTPELLIER-01.jpg",
+  "w": 380
+ },
+ "salicepaolo/handles-naxos": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/750/Naxos4.jpg",
+  "w": 411
+ },
+ "salicepaolo/handles-orleans": {
+  "bg": "#ffffff",
+  "h": 947,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/276/Orleans_pl_D_web.jpg",
+  "w": 490
+ },
+ "salicepaolo/handles-paestum": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/752/PAESTUM-01.jpg",
+  "w": 424
+ },
+ "salicepaolo/handles-pompei": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/295/POMPEI-01_1466604527.jpg",
+  "w": 302
+ },
+ "salicepaolo/handles-queen-186": {
+  "bg": "#fdfdfd",
+  "h": 300,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/228/Queen2.jpg",
+  "w": 170
+ },
+ "salicepaolo/handles-ravenna": {
+  "bg": "#ffffff",
+  "h": 968,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1172/3371_DOR.jpg",
+  "w": 527
+ },
+ "salicepaolo/handles-reims": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/273/REIMS-1.jpg",
+  "w": 443
+ },
+ "salicepaolo/handles-riyadh": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/754/RIYADH-01.jpg",
+  "w": 302
+ },
+ "salicepaolo/handles-rochefort-237": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/278/ROCHEFORT-01.jpg",
+  "w": 295
+ },
+ "salicepaolo/handles-samaraa": {
+  "bg": "#ffffff",
+  "h": 867,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/338/SAMARRA_pl_ETR_web.jpg",
+  "w": 383
+ },
+ "salicepaolo/handles-sharjah": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/246/SHARJAH-01.jpg",
+  "w": 326
+ },
+ "salicepaolo/handles-todi": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/640/TODI-02.jpg",
+  "w": 441
+ },
+ "salicepaolo/handles-tours-573": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/644/TOURS-01.jpg",
+  "w": 404
+ },
+ "salicepaolo/handles-urbino": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/277/URBINO-01.jpg",
+  "w": 371
+ },
+ "salicepaolo/handles-venezia-683": {
+  "bg": "#ffffff",
+  "h": 937,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/755/Venezia_pl_POV_web.jpg",
+  "w": 481
+ },
+ "salicepaolo/handles-versailles": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/305/VERSAILLES-01.jpg",
+  "w": 363
+ },
+ "salicepaolo/handles-versavia": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/346/VARSAVIA-02.jpg",
+  "w": 342
+ },
+ "salicepaolo/handles-vienna": {
+  "bg": "#ffffff",
+  "h": 745,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/281/VIENNA-01.jpg",
+  "w": 319
+ },
+ "salicepaolo/handles-volterra": {
+  "bg": "#ffffff",
+  "h": 975,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/758/Volterra_pl_BAS_web.jpg",
+  "w": 508
+ },
+ "salicepaolo/knobs-115-arconati": {
+  "bg": "#ffffff",
+  "h": 904,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1241/ARCONATI_pom_lat_NL.jpg",
+  "w": 1224
+ },
+ "salicepaolo/knobs-115-arese-2708": {
+  "bg": "#ffffff",
+  "h": 1264,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1240/ARESE_pom_NL.jpg",
+  "w": 1275
+ },
+ "salicepaolo/knobs-115-arum": {
+  "bg": "#ffffff",
+  "h": 1427,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/41/ARUM_pomolo_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/knobs-115-aster": {
+  "bg": "#ffffff",
+  "h": 884,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/37/ASTER_pomolo_NL.jpg",
+  "w": 1055
+ },
+ "salicepaolo/knobs-115-borbone-782": {
+  "bg": "#ffffff",
+  "h": 1272,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/977/BORBONE_pomolo_NL.jpg",
+  "w": 1232
+ },
+ "salicepaolo/knobs-115-cosmos": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/194/COSMOS_pomolo_A_NL.jpg",
+  "w": 1357
+ },
+ "salicepaolo/knobs-115-deco-787": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/982/DECO_pomolo_NL.jpg",
+  "w": 1032
+ },
+ "salicepaolo/knobs-115-fresia-938": {
+  "bg": "#ffffff",
+  "h": 691,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1236/FRESIA_pomolo_3259_NL.jpg",
+  "w": 368
+ },
+ "salicepaolo/knobs-115-hamilton-913": {
+  "bg": "#ffffff",
+  "h": 897,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1187/HAMILTON_pomolo_NL_web.jpg",
+  "w": 1302
+ },
+ "salicepaolo/knobs-115-sirio": {
+  "bg": "#ffffff",
+  "h": 1404,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/66/DIAMANTE_pomolo_A_NL.jpg",
+  "w": 1600
+ },
+ "salicepaolo/knobs-115-sveva-898": {
+  "bg": "#ffffff",
+  "h": 802,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1139/SVEVA_pomolo_NL_web.jpg",
+  "w": 452
+ },
+ "salicepaolo/knobs-115-tudor-757": {
+  "bg": "#ffffff",
+  "h": 1278,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/952/TUDOR_pomolo_NL.jpg",
+  "w": 1238
+ },
+ "salicepaolo/knobs-115-york-768": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/963/YORK_pomolo_NL.jpg",
+  "w": 893
+ },
+ "salicepaolo/knobs-beirut-312": {
+  "bg": "#ffffff",
+  "h": 713,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/352/BEIRUT_pomolo_web.jpg",
+  "w": 535
+ },
+ "salicepaolo/knobs-jakarta-723": {
+  "bg": "#ffffff",
+  "h": 748,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/880/JAKARTA_nottolinno_1466605827.jpg",
+  "w": 545
+ },
+ "salicepaolo/knobs-le-havre": {
+  "bg": "#ffffff",
+  "h": 659,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/616/LeHavre_pomolo_DOR-POV_web.jpg",
+  "w": 867
+ },
+ "salicepaolo/knobs-leningrado": {
+  "bg": "#ffffff",
+  "h": 749,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/254/LENINGRADO-01.jpg",
+  "w": 886
+ },
+ "salicepaolo/knobs-lione": {
+  "bg": "#ffffff",
+  "h": 651,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/331/Lione_pomolo_4321A_D_web.jpg",
+  "w": 837
+ },
+ "salicepaolo/knobs-mosca": {
+  "bg": "#ffffff",
+  "h": 587,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/539/MOSCA-_pomolo_POV_web.jpg",
+  "w": 775
+ },
+ "salicepaolo/knobs-nantes": {
+  "bg": "#ffffff",
+  "h": 676,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/764/Nantes_pomolo_D_web.jpg",
+  "w": 783
+ },
+ "salicepaolo/knobs-orleans-540": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/595/ORLEANS-03.jpg",
+  "w": 492
+ },
+ "salicepaolo/knobs-pompei-541": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/596/POMPEI-02.jpg",
+  "w": 448
+ },
+ "salicepaolo/knobs-rennes": {
+  "bg": "#ffffff",
+  "h": 702,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/708/Rennes_pomolo_BAS_web.jpg",
+  "w": 818
+ },
+ "salicepaolo/knobs-samarcanda": {
+  "bg": "#ffffff",
+  "h": 711,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/319/SAMARCANDA_pomolo_BAS_web.jpg",
+  "w": 833
+ },
+ "salicepaolo/knobs-urbino-553": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/608/URBINO-02.jpg",
+  "w": 362
+ },
+ "salicepaolo/zeus-136-zeus-7000a-b": {
+  "bg": "#ffffff",
+  "h": 283,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/423/24_zeus.jpg",
+  "w": 1000
+ },
+ "salicepaolo/zeus-136-zeus-7001a-b": {
+  "bg": "#ffffff",
+  "h": 189,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/424/18_19_zeus.jpg",
+  "w": 1000
+ },
+ "salicepaolo/zeus-136-zeus-7002": {
+  "bg": "#ffffff",
+  "h": 234,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/432/10_zeus.jpg",
+  "w": 936
+ },
+ "simonswerk/alpro": {
+  "bg": "#ffffff",
+  "h": 719,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/6/9/csm_ALPRO_3457_3D_neu-1_Simonswerk_Bandsystem_cb8073d13a.webp",
+  "w": 362
+ },
+ "simonswerk/anselmi": {
+  "bg": "#ffffff",
+  "h": 426,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/a/0/csm_AN_140_3D_ALUMINIUM_CHROME_Produktbild_Produktslider_webp_1920x1409_f06030615f.webp",
+  "w": 235
+ },
+ "simonswerk/baka": {
+  "bg": "#ffffff",
+  "h": 480,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/3/6/csm_BAKA_PROTECT_4010_3D_ER_Produktbild_Produktbild_webp_1920x1409_e322ae87ca.webp",
+  "w": 335
+ },
+ "simonswerk/biloba": {
+  "bg": "#ffffff",
+  "h": 400,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/b/7/csm_BL_8010_CO013_Produktbild_Produktbild_webp_1920x1409_6fed7751d9.webp",
+  "w": 299
+ },
+ "simonswerk/collio": {
+  "bg": "#ffffff",
+  "h": 455,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/6/5/csm_CO_8500_FINAL_LATCH_Produktbild_Produktbild_webp_1920x1409_6d23d213a9.webp",
+  "w": 317
+ },
+ "simonswerk/evo": {
+  "bg": "#ffffff",
+  "h": 463,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/e/7/csm_EV_835E10_N_Produktbild_Produktbild_webp_1920x1409_0be5031894.webp",
+  "w": 196
+ },
+ "simonswerk/keep-closed": {
+  "bg": "#a2a6a9",
+  "h": 1007,
+  "mode": "plate",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/9/1/csm_KC_KC_170_Milieu_Simonswerk_Bandsystem_3d841c0342.webp",
+  "w": 800
+ },
+ "simonswerk/metalworking": {
+  "bg": "#ffffff",
+  "h": 480,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/b/4/csm_KO_4_STBL_Produktbild_Produktbild_webp_1920x1409_74aaa6e9f3.webp",
+  "w": 382
+ },
+ "simonswerk/siku": {
+  "bg": "#ffffff",
+  "h": 480,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/9/2/csm_RB_5010_3D_ER_Produktbild_Produktbild_webp_1920x1409_eed8b429c4.webp",
+  "w": 199
+ },
+ "simonswerk/tectus": {
+  "bg": "#ffffff",
+  "h": 480,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/1/4/csm_TECTUS_Produktslider_Produktbild_TE_340_3D_ERLOOK_ac758c9977.webp",
+  "w": 223
+ },
+ "simonswerk/variant": {
+  "bg": "#b0a086",
+  "h": 481,
+  "mode": "plate",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/4/1/csm_Variant_VX_Produkt_VX_364d9ee539.webp",
+  "w": 655
+ },
+ "simonswerk/verto": {
+  "bg": "#ffffff",
+  "h": 303,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/2/a/csm_VT_100E20_CO000_Produktbild_Produktbild_webp_1920x1409_ab4dea706b.webp",
+  "w": 639
+ },
+ "stv/aluminium": {
+  "bg": "#ffffff",
+  "h": 1415,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=32",
+  "w": 243
+ },
+ "stv/attrazione": {
+  "bg": "#ffffff",
+  "h": 1008,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=71",
+  "w": 287
+ },
+ "stv/bathroom": {
+  "bg": "#ffffff",
+  "h": 1159,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=111",
+  "w": 335
+ },
+ "stv/crystal": {
+  "bg": "#d7edf8",
+  "h": 866,
+  "mode": "plate",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=189",
+  "w": 626
+ },
+ "stv/cylinder": {
+  "bg": "#ffffff",
+  "h": 411,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=59",
+  "w": 598
+ },
+ "stv/defender": {
+  "bg": "#ffffff",
+  "h": 315,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=209",
+  "w": 486
+ },
+ "stv/electric": {
+  "bg": "#ffffff",
+  "h": 627,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=197",
+  "w": 963
+ },
+ "stv/handle-600": {
+  "bg": "#ffffff",
+  "h": 763,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=215",
+  "w": 961
+ },
+ "stv/kit-tondo": {
+  "bg": "#ffffff",
+  "h": 207,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=143",
+  "w": 314
+ },
+ "stv/knob": {
+  "bg": "#ffffff",
+  "h": 494,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=267",
+  "w": 365
+ },
+ "stv/medium": {
+  "bg": "#ffffff",
+  "h": 1035,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=85",
+  "w": 299
+ },
+ "stv/security-110": {
+  "bg": "#ffffff",
+  "h": 1397,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=11",
+  "w": 344
+ },
+ "stv/sliding": {
+  "bg": "#fffefc",
+  "h": 975,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=129",
+  "w": 480
+ },
+ "verum/7900-2": {
+  "bg": "#e7e7e7",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/7900-Space-scaled.jpg",
+  "w": 1067
+ },
+ "verum/atlanta": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_atlanta_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/baar": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_baar_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/cham": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_cham_cromo_lucido.jpg",
+  "w": 667
+ },
+ "verum/dummy": {
+  "bg": "#ffffff",
+  "h": 861,
+  "mode": "cut",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/03/Disegni-tecnici-dummy-scaled.jpg",
+  "w": 1600
+ },
+ "verum/gala": {
+  "bg": "#e5e5e5",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/02/Gala-Cromo-Satinato-scaled.jpg",
+  "w": 1067
+ },
+ "verum/glass-plates": {
+  "bg": "#eaeaea",
+  "h": 1218,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/1-scaled.jpg",
+  "w": 1600
+ },
+ "verum/handle-snapp": {
+  "bg": "#e6e6e6",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/04/snapp-nero-scaled.jpg",
+  "w": 1067
+ },
+ "verum/lieve": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/12/verum_lieve_chromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/lift-and-slide-handles": {
+  "bg": "#e4e4e4",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/03/Lift-Slide-Handle-Round-Monviso-White-scaled.jpg",
+  "w": 1067
+ },
+ "verum/locks": {
+  "bg": "#e5e5e5",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/Magnetica-Cromo-sat-scaled.jpg",
+  "w": 1067
+ },
+ "verum/lui": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_lui_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/nora": {
+  "bg": "#e5e5e4",
+  "h": 1537,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/10/Nora-Nero-Etna.png",
+  "w": 1023
+ },
+ "verum/nuda": {
+  "bg": "#9a887d",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/AMB2_Camera.jpg",
+  "w": 1131
+ },
+ "verum/pepe": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_pepe_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/privacy-sets": {
+  "bg": "#e5e5e5",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/1-Lieve-Punto-privacy-set-Moon-Grey-scaled.jpg",
+  "w": 1067
+ },
+ "verum/pull-handle": {
+  "bg": "#e5e5e5",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/03/Rigo-Round-50-Space-scaled.jpg",
+  "w": 1067
+ },
+ "verum/pure": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_pure_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/serie-85-handle": {
+  "bg": "#e9e9e9",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/04/1-scaled.jpg",
+  "w": 1067
+ },
+ "verum/sliding-glass-door": {
+  "bg": "#e2e2e2",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/Cham-Etna-Black-scaled.jpg",
+  "w": 1067
+ },
+ "verum/sliding-systems-for-interiors": {
+  "bg": "#ffffff",
+  "h": 1376,
+  "mode": "cut",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/10/Ironlev-INT-07-scaled.jpg",
+  "w": 1600
+ },
+ "verum/sliding-wooden-doors": {
+  "bg": "#e5e5e5",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/02/Miles-Oro-Venezia-scaled.jpg",
+  "w": 1067
+ },
+ "verum/soap": {
+  "bg": "#e5e5e5",
+  "h": 1313,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_soap_cromo_satinato.jpg",
+  "w": 876
+ },
+ "verum/stoppino": {
+  "bg": "#f1eff0",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/02/verum_stoppino_open_immagine_evidenza.jpg",
+  "w": 1000
+ },
+ "verum/wind": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_wind_cromo_satinato.jpg",
+  "w": 667
+ },
+ "verum/window-handles": {
+  "bg": "#ffffff",
+  "h": 1153,
+  "mode": "cut",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2025/03/disegni-tecnici-mini-scaled.jpg",
+  "w": 1600
+ },
+ "verum/window-handles-2": {
+  "bg": "#d1c6b2",
+  "h": 1416,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2026/04/orologio-1.jpg",
+  "w": 950
+ }
+}
