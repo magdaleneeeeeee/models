@@ -1,0 +1,162 @@
+/* ==========================================================================
+   CREATURA — Instagram Stories design system
+   Luxury European architectural editorial · 1080 × 1920 · RGB
+   ========================================================================== */
+
+@font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-style: normal;
+  src: url("../fonts/CormorantGaramond-Medium.ttf") format("truetype"); }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 600; font-style: normal;
+  src: url("../fonts/CormorantGaramond-SemiBold.ttf") format("truetype"); }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-style: italic;
+  src: url("../fonts/CormorantGaramond-MediumItalic.ttf") format("truetype"); }
+@font-face { font-family: "Manrope"; font-weight: 400;
+  src: url("../fonts/Manrope-Regular.ttf") format("truetype"); }
+@font-face { font-family: "Manrope"; font-weight: 500;
+  src: url("../fonts/Manrope-Medium.ttf") format("truetype"); }
+@font-face { font-family: "Manrope"; font-weight: 600;
+  src: url("../fonts/Manrope-SemiBold.ttf") format("truetype"); }
+
+:root {
+  /* Brand palette */
+  --ivory:    #F2EFE9;
+  --beige:    #D8D0C4;
+  --sand:     #B9AA98;
+  --graphite: #252525;
+  --charcoal: #171717;
+  --wgrey:    #89847D;
+  --bronze:   #92785D;
+
+  /* Grid: 1080 × 1920, side margin 96, Instagram safe zone y 250 … 1620 */
+  --m: 96px;
+  --safe-top: 262px;
+  --safe-bottom: 1620px;
+
+  --serif: "Cormorant Garamond", "Times New Roman", serif;
+  --sans: "Manrope", "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---- Themes: background chosen per product material -------------------- */
+.t-ivory    { --bg: var(--ivory);    --fg: var(--graphite); --muted: var(--wgrey); --line: rgba(37,37,37,.28); --accent: var(--bronze);
+              --ph-a: #E7E2DA; --ph-b: #D9D2C7; --ph-ink: rgba(37,37,37,.55); }
+.t-beige    { --bg: var(--beige);    --fg: var(--graphite); --muted: #6F6A63;      --line: rgba(37,37,37,.30); --accent: #7A6249;
+              --ph-a: #CFC6B9; --ph-b: #C2B8AA; --ph-ink: rgba(37,37,37,.55); }
+.t-sand     { --bg: var(--sand);     --fg: var(--charcoal); --muted: #5E574F;      --line: rgba(23,23,23,.32); --accent: #5F4B37;
+              --ph-a: #C6B9A9; --ph-b: #A99A88; --ph-ink: rgba(23,23,23,.55); }
+.t-graphite { --bg: var(--graphite); --fg: var(--ivory);    --muted: #A39E96;      --line: rgba(242,239,233,.26); --accent: #B39878;
+              --ph-a: #343331; --ph-b: #1E1E1E; --ph-ink: rgba(242,239,233,.55); }
+.t-charcoal { --bg: var(--charcoal); --fg: var(--ivory);    --muted: #9A958D;      --line: rgba(242,239,233,.22); --accent: #B39878;
+              --ph-a: #2A2928; --ph-b: #121212; --ph-ink: rgba(242,239,233,.5); }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1080px; height: 1920px; background: var(--charcoal); }
+body { -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; }
+
+.story {
+  position: relative; width: 1080px; height: 1920px; overflow: hidden;
+  background: var(--bg); color: var(--fg); font-family: var(--sans);
+}
+.abs { position: absolute; }
+.panel { position: absolute; background: var(--bg); color: var(--fg); }
+
+/* ---- Header: Creatura wordmark + manufacturer caption ------------------- */
+.hdr {
+  position: absolute; left: var(--m); right: var(--m); top: var(--safe-top);
+  display: flex; justify-content: space-between; align-items: center; z-index: 5;
+  color: var(--fg);
+}
+.wordmark { font-family: var(--sans); font-weight: 600; font-size: 25px; letter-spacing: .42em; }
+.wordmark img, .maker img { display: block; height: 30px; width: auto; }
+.hdr .meta { font-size: 19px; font-weight: 500; letter-spacing: .24em; text-transform: uppercase; color: var(--muted); }
+
+/* ---- Typography -------------------------------------------------------- */
+.kicker { font-family: var(--sans); font-weight: 500; font-size: 22px; letter-spacing: .3em; text-transform: uppercase; color: var(--muted); }
+.kicker.accent { color: var(--accent); }
+.display { font-family: var(--serif); font-weight: 600; line-height: .86; letter-spacing: -.01em; }
+.title   { font-family: var(--serif); font-weight: 600; line-height: 1.02; letter-spacing: -.005em; }
+.title i, .display i { font-style: italic; font-weight: 500; }
+.lead    { font-family: var(--serif); font-weight: 500; font-size: 64px; line-height: 1.08; }
+.body    { font-family: var(--sans); font-weight: 400; font-size: 36px; line-height: 1.42; }
+.body.s  { font-size: 32px; }
+.body + .body { margin-top: 18px; }
+.cap     { font-family: var(--sans); font-weight: 500; font-size: 20px; letter-spacing: .26em; text-transform: uppercase; color: var(--muted); }
+.cap.accent { color: var(--accent); }
+.num     { font-family: var(--serif); font-weight: 500; font-style: italic; color: var(--accent); }
+.muted { color: var(--muted); }
+
+.rule   { height: 1px; background: var(--line); }
+.rule.accent { background: var(--accent); opacity: .9; }
+.vrule  { width: 1px; background: var(--line); }
+
+/* ---- CTA -------------------------------------------------------------- */
+.cta {
+  display: flex; align-items: center; justify-content: space-between; gap: 28px;
+  border-top: 1px solid var(--fg); padding-top: 30px;
+  font-family: var(--sans); font-weight: 600; font-size: 33px; line-height: 1.3;
+}
+.cta .arrow { flex: none; width: 76px; height: 76px; border: 1px solid var(--fg); border-radius: 50%;
+  display: flex; align-items: center; justify-content: center; }
+.cta .arrow svg { width: 30px; height: 30px; stroke: var(--fg); fill: none; stroke-width: 1.6; }
+
+/* ---- Numbered legend (real construction elements only) ----------------- */
+.legend { list-style: none; }
+.legend li { display: flex; gap: 22px; align-items: baseline; padding: 18px 0; border-top: 1px solid var(--line);
+  font-size: 30px; line-height: 1.25; }
+.legend li:last-child { border-bottom: 1px solid var(--line); }
+.legend .num { font-size: 34px; min-width: 44px; }
+
+/* ---- Media slots ------------------------------------------------------- */
+.slot { position: absolute; overflow: hidden; background: var(--ph-b); }
+.slot > img, .slot > video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.slot.contain > img { object-fit: contain; }
+
+/* Placeholder — deliberately calm so the composition reads, clearly marked so it is never published by mistake */
+.ph { position: absolute; inset: 0;
+  background:
+    radial-gradient(120% 80% at 22% 18%, rgba(255,255,255,.10), transparent 60%),
+    linear-gradient(160deg, var(--ph-a) 0%, var(--ph-b) 100%);
+}
+.ph::before { content: ""; position: absolute; inset: 22px; border: 1px dashed var(--ph-ink); opacity: .45; }
+.ph__label { position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);
+  width: min(78%, 560px); text-align: center; color: var(--ph-ink); display: flex; flex-direction: column; gap: 12px; align-items: center; }
+.ph__icon { width: 44px; height: 44px; stroke: var(--ph-ink); fill: none; stroke-width: 1.2; margin-bottom: 4px; }
+.ph__kind { font: 600 16px/1.2 var(--sans); letter-spacing: .3em; text-transform: uppercase; }
+.ph__file { font: 500 19px/1.3 var(--sans); letter-spacing: .02em; word-break: break-all; }
+.ph__note { font: 400 17px/1.4 var(--sans); opacity: .85; }
+.slot.sm .ph__label { gap: 8px; }
+.slot.sm .ph__note { display: none; }
+.slot.sm .ph__icon { width: 30px; height: 30px; }
+.slot.sm .ph__file { font-size: 15px; }
+.slot.sm .ph__kind { font-size: 13px; }
+
+/* Swatch (finish) placeholder */
+.swatch-name { font: 500 22px/1.3 var(--sans); margin-top: 18px; }
+.swatch-name .muted { display: block; font-size: 17px; letter-spacing: .2em; text-transform: uppercase; margin-top: 4px; }
+
+/* Video affordance */
+.timeline { display: flex; align-items: center; gap: 18px; font: 500 18px/1 var(--sans); letter-spacing: .2em; color: var(--muted); text-transform: uppercase; }
+.timeline .bar { flex: 1; height: 1px; background: var(--line); position: relative; }
+.timeline .bar::after { content: ""; position: absolute; left: 0; top: -1px; height: 3px; width: 34%; background: var(--accent); }
+.play { width: 64px; height: 64px; border-radius: 50%; border: 1px solid currentColor; display: flex; align-items: center; justify-content: center; }
+.play svg { width: 18px; height: 18px; fill: currentColor; margin-left: 4px; }
+
+/* Draft marker on renders that still contain placeholders */
+.draft-flag { position: absolute; right: 0; top: 0; z-index: 50; background: var(--bronze); color: var(--ivory);
+  font: 600 15px/1 var(--sans); letter-spacing: .26em; text-transform: uppercase; padding: 14px 20px 14px 24px; }
+
+/* Restrained motion (used when the HTML source is opened in a browser / video export).
+   Disabled automatically for PNG export. */
+@media (prefers-reduced-motion: no-preference) {
+  .animate .a-fade  { animation: fadeUp 1.1s cubic-bezier(.2,.7,.2,1) both; }
+  .animate .a-fade.d2 { animation-delay: .25s; } .animate .a-fade.d3 { animation-delay: .5s; } .animate .a-fade.d4 { animation-delay: .75s; }
+  .animate .a-line  { transform-origin: left; animation: drawLine 1.4s cubic-bezier(.2,.7,.2,1) .2s both; }
+  .animate .a-zoom > img, .animate .a-zoom > video { animation: slowZoom 9s ease-out both; }
+}
+@keyframes fadeUp { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+@keyframes drawLine { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes slowZoom { from { transform: scale(1); } to { transform: scale(1.06); } }
+
+/* Video-export overlay mode: everything except slots stays, story background becomes transparent */
+.overlay-mode html, html.overlay-mode, .overlay-mode body { background: transparent !important; }
+.overlay-mode .story { background: transparent !important; }
+.overlay-mode .slot.video { visibility: hidden; }
+.overlay-mode .draft-flag { display: none; }
