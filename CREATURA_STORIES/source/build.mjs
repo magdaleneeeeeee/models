@@ -96,12 +96,20 @@ function buildStory(s) {
         <span class="ph__file">${esc(spec.file + ext)}</span>
         <span class="ph__note">${esc(spec.note)}</span></div></div></div>`;
     },
-    hdr(s, o = {}) {
+    mark() {
       const cLogo = findFile(A('logos'), 'creatura', LOGO_EXT);
-      const mLogo = s.brand ? findFile(A('logos'), s.brand, LOGO_EXT) : null;
-      const word = cLogo ? `<img src="${rel(htmlDir, cLogo)}" alt="Creatura">` : 'CREATURA';
-      const meta = mLogo && s.meta?.toLowerCase().startsWith(s.brand) ? `<span class="maker"><img src="${rel(htmlDir, mLogo)}" alt="${esc(s.meta)}"></span>` : `<span class="meta">${typo(s.meta || '')}</span>`;
-      return `<div class="hdr ${o.theme || ''}"><span class="wordmark">${word}</span>${meta}</div>`;
+      return cLogo ? `<img src="${rel(htmlDir, cLogo)}" alt="Creatura">` : 'CREATURA';
+    },
+    hdr(s) {
+      if ((s.wm || '').toUpperCase() === 'CREATURA') return s.tag ? `<div class="hdr"><span></span><span class="tag">${typo(s.tag)}</span></div>` : '';
+      return `<div class="hdr"><span class="mark">${h.mark()}</span>${s.tag ? `<span class="tag">${typo(s.tag)}</span>` : ''}</div>`;
+    },
+    // Manufacturer wordmark at the bottom: original logo from assets/logos/<key>.svg|png, otherwise neutral typography
+    wm(s) {
+      const text = s.wm || s.maker || 'CREATURA';
+      const key = (s.wmKey || (text.toUpperCase() === 'CREATURA' ? 'creatura' : s.brand) || '').toLowerCase();
+      const logo = key ? findFile(A('logos'), key, LOGO_EXT) : null;
+      return `<div class="wm">${logo ? `<img src="${rel(htmlDir, logo)}" alt="${esc(text)}">` : typo(text)}</div>`;
     },
   };
   const layout = layouts[s.layout];
@@ -136,7 +144,7 @@ async function qa(page) {
   return page.evaluate(() => {
     const issues = [];
     const R = (el) => el.getBoundingClientRect();
-    const textSel = '.display,.title,.lead,.body,.cta,.kicker,.legend li,.cap,.swatch-name,.timeline';
+    const textSel = '.lockup,.line,.q,.cap,.cta,.wm,.big,.num';
     const texts = [...document.querySelectorAll(textSel)].filter(el => !el.closest('.hdr') && !el.closest('.ph') && R(el).width > 0);
     const slots = [...document.querySelectorAll('.slot')];
     const label = (el) => (el.textContent || '').trim().slice(0, 40);
@@ -175,11 +183,11 @@ async function main() {
     await page.goto(pathToFileURL(b.file).href, { waitUntil: 'load' });
     await page.evaluate(async () => {
       document.querySelector('.story').classList.remove('animate');
-      await Promise.all(['500 40px "Cormorant Garamond"', '600 40px "Cormorant Garamond"', 'italic 500 40px "Cormorant Garamond"', '400 20px Manrope', '500 20px Manrope', '600 20px Manrope'].map(f => document.fonts.load(f, 'Жж')));
+      await Promise.all(['400 20px Manrope', '500 20px Manrope', '600 20px Manrope'].map(f => document.fonts.load(f, 'Жж')));
       await document.fonts.ready;
       await Promise.all([...document.images].map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
     });
-    const fontsOk = await page.evaluate(() => ['600 40px "Cormorant Garamond"', '400 20px Manrope', '600 20px Manrope'].every(f => document.fonts.check(f, 'Ж')));
+    const fontsOk = await page.evaluate(() => ['400 20px Manrope', '500 20px Manrope', '600 20px Manrope'].every(f => document.fonts.check(f, 'Ж')));
     const { issues, rects } = await qa(page);
     if (!fontsOk) issues.push('fonts: brand fonts not loaded');
     const png = path.join(outDir, `story_0${b.s.n}.png`);
@@ -227,12 +235,12 @@ async function exportVideo(page, b, rects, outDir) {
 async function previews(ctx, results) {
   const pv = path.join(ROOT, 'preview'); fs.mkdirSync(pv, { recursive: true });
   const page = await ctx.newPage();
-  const css = `body{margin:0;background:#171717;color:#F2EFE9;font-family:Manrope,sans-serif}
-    @font-face{font-family:Manrope;src:url(../fonts/Manrope-Medium.ttf)} @font-face{font-family:Cormorant;src:url(../fonts/CormorantGaramond-SemiBold.ttf)}
-    .wrap{padding:64px} h1{font:600 64px/1 Cormorant;margin:0 0 8px} .sub{font-size:20px;letter-spacing:.24em;text-transform:uppercase;color:#89847D;margin-bottom:48px}
+  const css = `body{margin:0;background:#F4F4F3;color:#171717;font-family:Manrope,sans-serif}
+    @font-face{font-family:Manrope;font-weight:500;src:url(../fonts/Manrope-Medium.ttf)} @font-face{font-family:Manrope;font-weight:600;src:url(../fonts/Manrope-SemiBold.ttf)}
+    .wrap{padding:64px} h1{font:600 48px/1 Manrope;letter-spacing:.06em;text-transform:uppercase;margin:0 0 14px} .sub{font-size:20px;letter-spacing:.24em;text-transform:uppercase;color:#89847D;margin-bottom:48px}
     .row{display:flex;gap:20px;align-items:flex-start;margin-bottom:44px} .dl{width:150px;flex:none;padding-top:6px}
-    .dl b{display:block;font:600 44px/1 Cormorant} .dl span{display:block;font-size:15px;color:#B9AA98;margin-top:10px;line-height:1.4}
-    figure{margin:0} img{display:block;width:270px;height:480px;outline:1px solid #2c2c2c} figcaption{font-size:14px;color:#89847D;margin-top:10px;letter-spacing:.06em}`;
+    .dl b{display:block;font:600 36px/1 Manrope} .dl span{display:block;font-size:15px;color:#89847D;margin-top:10px;line-height:1.4}
+    figure{margin:0} img{display:block;width:270px;height:480px;box-shadow:0 1px 3px rgba(0,0,0,.08),0 8px 24px rgba(0,0,0,.06)} figcaption{font-size:14px;color:#89847D;margin-top:10px;letter-spacing:.06em}`;
   const fig = (r) => `<figure><img src="../${r.day.folder}/story_0${r.s.n}.png"><figcaption>0${r.s.n} · ${esc(r.s.name)}${r.missing.length ? ' · ◌' : ''}</figcaption></figure>`;
   const rowFor = (d) => `<div class="row"><div class="dl"><b>${d.date}</b><span>${esc(d.theme)}</span></div>${results.filter(r => r.day === d).map(fig).join('')}</div>`;
   const doc = (title, rows) => `<!doctype html><html><head><meta charset="utf-8"><title>${title}</title><style>${css}</style></head><body><div class="wrap"><h1>${title}</h1><div class="sub">Instagram Stories · 21–30.11.2026 · ◌ = contains placeholders</div>${rows}</div></body></html>`;
@@ -316,7 +324,7 @@ ${results.filter(r => r.missing.length).map(r => `| ${r.day.date} | ${r.day.fold
 | Размер 1080 × 1920 px, PNG, RGB | ${results.length} файлов |
 | Безопасные зоны (текст в пределах y 250–1620, x 60–1020) | ${results.flatMap(r => r.issues.filter(i => /safe|side/.test(i))).length ? 'есть замечания ↓' : 'OK'} |
 | Нет наложения текста на фото товара | ${results.flatMap(r => r.issues.filter(i => /over-media/.test(i))).length ? 'есть замечания ↓' : 'OK'} |
-| Шрифты Cormorant Garamond + Manrope загружены | ${results.some(r => r.issues.some(i => i.startsWith('fonts'))) ? 'ошибка' : 'OK'} |
+| Шрифт Manrope загружен | ${results.some(r => r.issues.some(i => i.startsWith('fonts'))) ? 'ошибка' : 'OK'} |
 | Один тип композиции не более двух раз подряд | ${rhythm.length ? rhythm.join('; ') : 'OK'} |
 | CTA в 5-й сторис каждого дня | ${results.filter(r => r.s.n === 5).every(r => r.s.cta) ? 'OK' : 'нет CTA'} |
 | Выдуманные характеристики | нет — используются только тексты из ТЗ |

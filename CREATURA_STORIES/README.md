@@ -10,10 +10,10 @@
 CREATURA_STORIES/
 ├── 01_NOVEMBER_21 … 10_NOVEMBER_30/   story_01.png … story_05.png  (+ story_0X.mp4 for video stories once footage exists)
 ├── assets/photos   assets/video   assets/logos      ← drop original files here (names in MISSING_ASSETS.md)
-├── fonts/          Cormorant Garamond + Manrope (TTF, OFL), FONTS.md
+├── fonts/          Manrope (used) + Cormorant Garamond (reserve), TTF, OFL — FONTS.md
 ├── source/
 │   ├── stories.mjs     all texts, layout choice, background, media slots for the 50 stories
-│   ├── layouts.mjs     composition library (cover, macro, motion, split, comparison, context, technical, closing…)
+│   ├── layouts.mjs     minimal composition library (hero, stack, macro, video, details, interior, pair, finishes, cta…)
 │   ├── styles.css      design tokens: palette, typography, grid, safe zones, motion
 │   ├── palette.json
 │   ├── build.mjs       render pipeline (HTML → PNG, MP4, previews, QA, reports)
@@ -37,25 +37,25 @@ Needs Node 18+, Playwright with Chromium and, for MP4, ffmpeg.
 
 The "Draft · N placeholders" bronze flag in the corner appears only while a story still contains placeholders. Final renders do not have it.
 
-## Design system
+## Design system — minimal white studio
+
+The visual reference is a catalogue-style story: the product as a cutout on pure white, one or two views plus a macro crop on light grey, a quiet "MODEL by BRAND" lockup and the manufacturer's name as a logo at the bottom.
 
 | Token | HEX | Use |
 |---|---|---|
-| Warm Ivory | `#F2EFE9` | light backgrounds for light products and interiors |
-| Soft Beige | `#D8D0C4` | warm secondary background |
-| Sand | `#B9AA98` | accent backgrounds (26.11, 28.11, 30.11) |
-| Graphite | `#252525` | metal products, locks, macro |
-| Deep Charcoal | `#171717` | dark covers, offer, video |
-| Warm Grey | `#89847D` | captions, secondary text |
-| Muted Bronze | `#92785D` | thin accents only: lines, numerals, kickers |
+| White | `#FFFFFF` | main background of every story |
+| Studio grey | `#EDEDEC` | backdrop for macro crops and detail shots |
+| Deep Charcoal | `#171717` | all text, wordmark |
+| Warm Grey | `#89847D` / `#8A8A88` | captions, numbering |
+| Warm Ivory / Soft Beige / Sand / Graphite / Muted Bronze | `#F2EFE9` `#D8D0C4` `#B9AA98` `#252525` `#92785D` | in the palette as reserves (an `t-ivory` theme is available) |
 
-Typography: Cormorant Garamond SemiBold for titles, Manrope Regular for body copy, and Manrope Medium/SemiBold for captions and CTAs. Text is not set in all caps, except brand names and micro-captions.
-
-Grid: 96 px side margins. Meaningful text sits within y 262–1610 px. Instagram's top 250 px and bottom 300 px stay free.
-
-The rhythm across 10 days uses 27 compositions. The same §6 composition type never appears more than twice in a row, and `build.mjs` checks this automatically. It also checks safe zones, text over photos and font loading; results are in `preview/QA_REPORT.md`.
-
-Motion (HTML/MP4): headlines fade in, the image zooms slowly (6%), lines draw in. There are no fly-ins, bounces or spinning logos.
+* **Typography:** Manrope only. Model name 600 uppercase + "by" 400 + brand 400; copy 400 at 27–31 px; closing questions 500 at 50–56 px; manufacturer wordmark 600 at 66 px with wide tracking.
+* **Text:** one or two short lines per story, taken verbatim from the brief. No serif display type, decorative frames, gradients or badges.
+* **Creatura:** small letter-spaced mark at the top (y 262). In closing stories without a specific manufacturer, the CREATURA wordmark sits at the bottom.
+* **Photography:** packshots (`cut` slots) on pure white, so they merge with the background. Macro shots (`studio` slots) on light grey. Interiors and video in neat rectangles with white margins or bleeding off the top.
+* **Grid:** 96 px side margins, meaningful text within y 262–1610 px, Instagram's bottom 300 px left empty.
+* **Compositions:** 15 (hero, stack, macroBlock, fullBleed, video ×2, twoStates, details, mosaic, interior ×2, pair, finishes ×2, cta, ctaGrid, split, offer). The same §6 composition type never appears more than twice in a row (checked in `preview/QA_REPORT.md`).
+* **Motion (HTML/MP4):** soft fade-in of text, slow 5% zoom of the image.
 
 ## Content principles
 * Copy is taken verbatim from the brief. No specifications, model names or finish names were invented. Where they are needed there are neutral labels ("Отделка 01", "STV · модель 01") to replace, listed in `MISSING_ASSETS.md`.
