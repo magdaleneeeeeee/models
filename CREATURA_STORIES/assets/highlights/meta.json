@@ -1,4 +1,60 @@
 {
+ "alumove/elegant": {
+  "bg": "#ffffff",
+  "h": 437,
+  "mode": "cut",
+  "src": "https://alumove.ru/upload/iblock/20f/zu1dhzwl7yqfw0ep1an0u8cnlz2kt5u3/Latun1.jpg",
+  "w": 488
+ },
+ "alumove/estet-cognac": {
+  "bg": "#ffffff",
+  "h": 1395,
+  "mode": "cut",
+  "src": "https://alumove.ru/upload/iblock/035/5v8ow9yegmbadufqpmq6ama0jqnkx28r/Konyak1.jpg",
+  "w": 1600
+ },
+ "alumove/jazz": {
+  "bg": "#ffffff",
+  "h": 475,
+  "mode": "cut",
+  "src": "https://alumove.ru/upload/iblock/8d3/plul3qsr3fp1k5dtaenbd82xwces08ct/jazz_nero.jpg",
+  "w": 700
+ },
+ "alumove/laconic": {
+  "bg": "#595959",
+  "h": 1413,
+  "mode": "plate",
+  "src": "https://alumove.ru/upload/iblock/6fc/ij4cgegdbchqm4aurvoc1wcdw0fvum7l/brand_laconic.png",
+  "w": 1426
+ },
+ "alumove/laconic-frame": {
+  "bg": "#838181",
+  "h": 743,
+  "mode": "plate",
+  "src": "https://alumove.ru/upload/iblock/1ef/7hnq0r1bftb9k0vqxzrw4vk04palq122/ramka-shampan-gl.png",
+  "w": 762
+ },
+ "alumove/perfecta": {
+  "bg": "#ffffff",
+  "h": 801,
+  "mode": "cut",
+  "src": "https://alumove.ru/upload/iblock/3b7/fxu26jxyg8pt6yw9nl9ir7f7jws3zo34/perfecta_s_bortik.jpg",
+  "w": 979
+ },
+ "alumove/shelf": {
+  "bg": "#271d18",
+  "h": 400,
+  "mode": "plate",
+  "src": "https://alumove.ru/upload/iblock/329/fbmzaup0fj0rszlo4vymp86f926q1m7g/brand_shelf.png",
+  "w": 420
+ },
+ "alumove/shine-nickel": {
+  "bg": "#ffffff",
+  "h": 1430,
+  "mode": "cut",
+  "src": "https://alumove.ru/upload/iblock/47f/vgfx0ot8l4nqzutehzsisk4j67diu3d5/Nikel1.jpg",
+  "w": 1600
+ },
  "atim/blade": {
   "bg": "#be895f",
   "h": 327,

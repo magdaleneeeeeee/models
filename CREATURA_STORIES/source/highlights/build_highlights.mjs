@@ -19,8 +19,8 @@ const ASSETS = path.join(ROOT, 'assets', 'highlights');
 const args = process.argv.slice(2);
 const only = args.includes('--only') ? args[args.indexOf('--only') + 1] : null;
 
-const BRANDS = ['salice', 'atim', 'stv', 'formani', 'verum', 'salicepaolo', 'ceam', 'fritsjurgens', 'simonswerk'];
-const CTA_WHAT = { salice: 'петли и механизмы', atim: 'механизмы-трансформеры', stv: 'замки', formani: 'дверную фурнитуру', verum: 'ручки', salicepaolo: 'латунные ручки', ceam: 'скрытые петли', fritsjurgens: 'pivot-системы', simonswerk: 'дверные петли' };
+const BRANDS = ['salice', 'atim', 'stv', 'formani', 'verum', 'salicepaolo', 'ceam', 'fritsjurgens', 'simonswerk', 'alumove'];
+const CTA_WHAT = { salice: 'петли и механизмы', atim: 'механизмы-трансформеры', stv: 'замки', formani: 'дверную фурнитуру', verum: 'ручки', salicepaolo: 'латунные ручки', ceam: 'скрытые петли', fritsjurgens: 'pivot-системы', simonswerk: 'дверные петли', alumove: 'алюминиевые фасады' };
 
 const NBSP = ' ';
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');

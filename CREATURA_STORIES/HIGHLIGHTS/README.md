@@ -220,10 +220,36 @@
 - `09.png` — KEEP CLOSED · Metalworking
 - `10.png` — запрос каталога
 
+## ALUMOVE — `HIGHLIGHTS/10_ALUMOVE` · 11 сторис
+
+Источник: alumove.ru
+
+- `00_cover.png` — обложка
+- `01.png` — о бренде и содержание
+- `02.png` — JAZZ
+- `03.png` — PERFECTA
+- `04.png` — LACONIC
+- `05.png` — LACONIC · рамки
+- `06.png` — ELEGANT
+- `07.png` — SHINE
+- `08.png` — ESTET
+- `09.png` — SHELF
+- `10.png` — запрос каталога
+
 ## Источники фотографий
 
 | Файл | Источник |
 |---|---|
+| `assets/highlights/alumove/elegant.jpg` | https://alumove.ru/upload/iblock/20f/zu1dhzwl7yqfw0ep1an0u8cnlz2kt5u3/Latun1.jpg |
+| `assets/highlights/alumove/estet.jpg` | https://alumove.ru/upload/iblock/f82/kqiiqygm3se9qhj2920a5s28id2e9ict/Latun1.jpg |
+| `assets/highlights/alumove/estet-cognac.jpg` | https://alumove.ru/upload/iblock/035/5v8ow9yegmbadufqpmq6ama0jqnkx28r/Konyak1.jpg |
+| `assets/highlights/alumove/jazz.jpg` | https://alumove.ru/upload/iblock/8d3/plul3qsr3fp1k5dtaenbd82xwces08ct/jazz_nero.jpg |
+| `assets/highlights/alumove/laconic.jpg` | https://alumove.ru/upload/iblock/6fc/ij4cgegdbchqm4aurvoc1wcdw0fvum7l/brand_laconic.png |
+| `assets/highlights/alumove/laconic-frame.jpg` | https://alumove.ru/upload/iblock/1ef/7hnq0r1bftb9k0vqxzrw4vk04palq122/ramka-shampan-gl.png |
+| `assets/highlights/alumove/perfecta.jpg` | https://alumove.ru/upload/iblock/3b7/fxu26jxyg8pt6yw9nl9ir7f7jws3zo34/perfecta_s_bortik.jpg |
+| `assets/highlights/alumove/shelf.jpg` | https://alumove.ru/upload/iblock/329/fbmzaup0fj0rszlo4vymp86f926q1m7g/brand_shelf.png |
+| `assets/highlights/alumove/shine.jpg` | https://alumove.ru/upload/iblock/a64/moigtv87bnorqnm3b2bglxn7oyzvb5m1/Latun1.jpg |
+| `assets/highlights/alumove/shine-nickel.jpg` | https://alumove.ru/upload/iblock/47f/vgfx0ot8l4nqzutehzsisk4j67diu3d5/Nikel1.jpg |
 | `assets/highlights/atim/blade.jpg` | https://www.salice.com/media/immagini/9028_n_salice-universal-box-pull-out-column-top-with-cutlery-tray-PRE-01.jpg |
 | `assets/highlights/atim/breakfast.jpg` | https://www.salice.com/media/immagini/9079_z_salice-breakfast-pull-out-top-DET-01.jpg |
 | `assets/highlights/atim/breakfast-top.jpg` | https://www.salice.com/media/immagini/9083_z_salice-breakfast-top-sliding-table-top-DET-0jpg.jpg |

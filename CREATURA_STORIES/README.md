@@ -65,11 +65,11 @@ The visual reference is a catalogue-style story: the product as a cutout on pure
 
 # Highlights (Актуальное) — brand catalogues
 
-The `HIGHLIGHTS/` folder holds one "Актуальное" section per brand, built in the same minimal white style. There are 9 brands: Salice, ATIM, STV, Formani, Verum, Salice Paolo, CEAM, FritsJurgens and Simonswerk.
+The `HIGHLIGHTS/` folder holds one "Актуальное" section per brand, built in the same minimal white style. There are 10 brands: Salice, ATIM, STV, Formani, Verum, Salice Paolo, CEAM, FritsJurgens, Simonswerk and Alumove.
 
 ```
 HIGHLIGHTS/
-├── 01_SALICE … 09_SIMONSWERK/   00_cover.png (cover and first story) · 01.png … NN.png · cover_icon_1080x1080.png
+├── 01_SALICE … 10_ALUMOVE/   00_cover.png (cover and first story) · 01.png … NN.png · cover_icon_1080x1080.png
 ├── _preview/                    preview of each section and covers.png (all covers in a circle)
 └── README.md                    contents of each section and the source of every photo
 ```
@@ -81,7 +81,7 @@ Each section is structured as: cover, then about the brand and its contents, the
 * **List**: up to 5 models with photo, description and key spec.
 * **Grid**: up to 6 models with photo and article code (Salice Paolo).
 
-**Content sources**: the manufacturers' official websites and catalogues (salice.com, stvserrature.it, formani.com, verumitaly.com, salicepaolo.it, ceamitalia.it, fritsjurgens.com, simonswerk.com). Specs are translated, with no data added. Raw data is in `source/highlights/research/`, and the texts are in `source/highlights/brands/<brand>.mjs`.
+**Content sources**: the manufacturers' official websites and catalogues (salice.com, stvserrature.it, formani.com, verumitaly.com, salicepaolo.it, ceamitalia.it, fritsjurgens.com, simonswerk.com, alumove.ru). Specs are translated, with no data added. Raw data is in `source/highlights/research/`, and the texts are in `source/highlights/brands/<brand>.mjs`.
 
 **Photos**: the manufacturers' official images. White-background shots are trimmed and shown as cutouts; the rest are shown as clean rectangular blocks, and products are not altered. The source of each photo is listed in `HIGHLIGHTS/README.md`.
 
