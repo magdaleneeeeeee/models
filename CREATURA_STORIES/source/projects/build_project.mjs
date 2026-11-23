@@ -138,7 +138,7 @@ async function main() {
   for (const s of STORIES) {
     const pic = picture(s); const v = compose(s, pic, true); const a = storyAudio(s, offset);
     const out = path.join(OUT, `story_0${s.id}.mp4`);
-    ff(['-i', v, '-i', a, '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', out]);
+    ff(["-i", v, "-i", a, "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-crf", "19", "-preset", "slow", "-pix_fmt", "yuv420p", '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', out]);
     ff(['-ss', '2.6', '-i', out, '-frames:v', '1', path.join(OUT, 'frames', `story_0${s.id}.png`)]);
     s._v = compose(s, pic, s.id === 1); s._a = a; offset += s.dur; finals.push(out);
     console.log('story', s.id, s.dur + 's');
@@ -159,7 +159,7 @@ async function main() {
   });
   fa.push(`${mx.join('')}amix=inputs=${mx.length}:normalize=0:duration=first[out]`);
   const aFull = path.join(TMP, 'full_a.wav'); ff([...ins, '-filter_complex', fa.join(';'), '-map', '[out]', aFull]);
-  ff(['-i', vOnly, '-i', aFull, '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', path.join(OUT, 'full_edit.mp4')]);
+  ff(['-i', vOnly, '-i', aFull, '-map', '0:v', '-map', '1:a', '-c:v', 'libx264', '-profile:v', 'high', '-crf', '19', '-preset', 'slow', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', path.join(OUT, 'full_edit.mp4')]);
   console.log('full edit', total.toFixed(1) + 's');
 }
 
