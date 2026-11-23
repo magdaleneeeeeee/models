@@ -14,4 +14,5 @@ export const img = (id, url, extra = {}) => ({ id, url, ...extra });
 export const chunk = (arr, n) => arr.reduce((a, x, i) => (i % n ? a[a.length - 1].push(x) : a.push([x]), a), []);
 
 // Split into the fewest chunks of at most n, with balanced sizes (no near-empty last page).
-export const balance = (arr, n) => { const k = Math.ceil(arr.length / n); const size = Math.ceil(arr.length / k); return chunk(arr, size); };
+export const balance = (arr, n) => { const k = Math.ceil(arr.length / n); const out = []; let i = 0;
+  for (let j = 0; j < k; j++) { const sz = Math.ceil((arr.length - i) / (k - j)); out.push(arr.slice(i, i + sz)); i += sz; } return out; };

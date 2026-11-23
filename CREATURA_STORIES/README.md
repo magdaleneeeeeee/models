@@ -86,3 +86,24 @@ Each section is structured as: cover, then about the brand and its contents, the
 **Photos**: the manufacturers' official images. White-background shots are trimmed and shown as cutouts; the rest are shown as clean rectangular blocks, and products are not altered. The source of each photo is listed in `HIGHLIGHTS/README.md`.
 
 **Rebuild**: `node source/highlights/build_highlights.mjs` (or `--only verum`, or `--no-fetch` to skip downloading). This needs network access to the manufacturers' sites.
+
+---
+
+# Highlights v2 — Creatura selection in each brand's style
+
+`HIGHLIGHTS/` now holds only the positions Creatura works with (selection of 23.11), each section styled after the brand's own site and catalogue, with large readable type. The full-catalogue v1 sources remain in `source/highlights/brands/`.
+
+| Section | Contents | Style |
+|---|---|---|
+| 01_SALICE | AIR, PUSH, Exedra Gravity, Exedra2 (Star/Smart), Exedra2 Motorised | white, Salice orange #FA4616, Inter (≈ Switzer) |
+| 02_ATIM | all 52 Trasformabili solutions | Salice-group style |
+| 03_STV | ATTRAZIONE A7: lock, how it works, finishes (white, polished brass, matt chrome, matt nickel) | catalogue blue band, Roboto Condensed |
+| 04_FORMANI | ONE, INC, ELEEZ, RIVIO, RIBBON, SQUARE, BOSCO, NOUR, BOBBY, CONE, TENSE, ECLIPSE, TIMELESS | black stage, Montserrat (≈ Gotham), tracked capitals |
+| 05_VERUM | LIEVE, PEPE, ATLANTA, BAAR, PURE, WIND | light-grey studio, Onest (≈ Neue Montreal), capitals |
+| 06/07_SALICE_PAOLO | Timeless and Classic — all models with article codes | ivory, Cormorant Garamond serif, brass accent |
+| 08_CEAM | 1430, 1450, 1230s, 1418, 1131s, 929 | white/graphite, IBM Plex Sans |
+| 09_SIMONSWERK | TECTUS TE 340 3D, TE 311 3D FVZ 44; finishes SW 125 / SW 107 / SW 175 / SW 030 | off-white, teal #009999, Jost (≈ Campton) |
+| 10_FRITSJURGENS | all pivot systems and components | black & white, Source Sans 3 (≈ TheSans) |
+
+Type sizes: titles 84–112 px, text 34 px, specs 30 px, captions 26 px. Fonts live in `fonts/brands/` (all OFL, Cyrillic).
+Rebuild: `node source/highlights/build_selection.mjs` (content in `source/highlights/selection.mjs`, styles in `themes.mjs`, layouts in `layouts_v2.mjs`).

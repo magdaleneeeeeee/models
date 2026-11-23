@@ -2120,6 +2120,2918 @@
   "src": "https://www.salicepaolo.it/gallery/432/10_zeus.jpg",
   "w": 936
  },
+ "sel/ceam/1131s": {
+  "bg": "#918e89",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1131s_Casa.jpg",
+  "w": 1600
+ },
+ "sel/ceam/1230s": {
+  "bg": "#a7856a",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/1230.jpg",
+  "w": 1600
+ },
+ "sel/ceam/1418": {
+  "bg": "#a9aaac",
+  "h": 1256,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2023/05/1418-scaled.jpg",
+  "w": 1600
+ },
+ "sel/ceam/1430": {
+  "bg": "#a8a8a8",
+  "h": 1041,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2021/12/1430_1-scaled.jpg",
+  "w": 1600
+ },
+ "sel/ceam/1450": {
+  "bg": "#a9aaac",
+  "h": 1004,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2024/10/1450-scaled.jpg",
+  "w": 1600
+ },
+ "sel/ceam/929": {
+  "bg": "#acaba9",
+  "h": 1600,
+  "mode": "plate",
+  "src": "https://www.ceamitalia.it/wp-content/uploads/2018/06/929.jpg",
+  "w": 1600
+ },
+ "sel/formani/bobby-by-eric-kuster": {
+  "bg": "#1f1f1f",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2616/3240/8053/Formani_10095_main.jpg",
+  "w": 1600
+ },
+ "sel/formani/bosco-by-lazaro-rosa-violan": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2716/1251/1650/FORMANI_BOSCO_10076.jpg",
+  "w": 1600
+ },
+ "sel/formani/cone-by-osiris-hertman": {
+  "bg": "#1b1b1b",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2716/2489/1628/FORMANI_CONE_10098-main.jpg",
+  "w": 1600
+ },
+ "sel/formani/eclipse-by-david-rockwell": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/7617/3384/6219/collectie-formani-dr102-satin-stainless-steel.jpg",
+  "w": 1600
+ },
+ "sel/formani/eleez-by-zaha-hadid-design": {
+  "bg": "#1b191a",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/9617/7615/3959/ELEEZ-champagne-main.jpg",
+  "w": 1600
+ },
+ "sel/formani/inc-by-piet-boon": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6516/1062/2908/Formani_INC_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "sel/formani/nour-by-edward-van-vliet": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/6416/1435/3277/FORMANI_NOUR_10200.jpg",
+  "w": 1600
+ },
+ "sel/formani/one-by-piet-boon": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/3916/1062/2154/Formani_ONE_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "sel/formani/ribbon-by-bob-manders": {
+  "bg": "#242426",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/9016/1433/1926/FORMANI_2_10107.jpg",
+  "w": 1600
+ },
+ "sel/formani/rivio": {
+  "bg": "#252525",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/1116/7361/3322/GL101_satin_stainless_steel.jpg",
+  "w": 1600
+ },
+ "sel/formani/square-by-jan-des-bouvrie": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/3716/1487/3287/FORMANI_SQUARE_10066.jpg",
+  "w": 1600
+ },
+ "sel/formani/tense-by-bertram-beerbaum": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/7016/1062/3044/Formani_Tense_satin_stainless_steel-Main.jpg",
+  "w": 1600
+ },
+ "sel/formani/timeless-by-formani": {
+  "bg": "#212121",
+  "h": 1200,
+  "mode": "plate",
+  "src": "https://formani.com/application/files/2216/1461/4658/FORMANI_TIMELESS_10156.jpg",
+  "w": 1600
+ },
+ "sel/salice/air": {
+  "bg": "#bcbabb",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/396_z_salice-concealed-hinges-air-DET-02.jpg",
+  "w": 945
+ },
+ "sel/salice/exedra-gravity": {
+  "bg": "#b2b3b7",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/7955_z_salice-exedra-gravity-pocket-doors-system-DET-01.jpg",
+  "w": 945
+ },
+ "sel/salice/exedra2": {
+  "bg": "#989296",
+  "h": 327,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/5827_n_salice-exedra2-star-sliding-system-double-pocket-doors-PRE-03b.jpg",
+  "w": 503
+ },
+ "sel/salice/exedra2-motor": {
+  "bg": "#ffffff",
+  "h": 952,
+  "mode": "cut",
+  "src": "https://www.salice.com/media/immagini/8068_z_salice-exedra2-sliding-system-double-pocket-doors-optional-motorised.png",
+  "w": 1311
+ },
+ "sel/salice/push": {
+  "bg": "#ddcdac",
+  "h": 750,
+  "mode": "plate",
+  "src": "https://www.salice.com/media/immagini/401_z_salice-magnetic-release-devices-DET-01.jpg",
+  "w": 945
+ },
+ "sel/salicepaolo/accessories-118-2911": {
+  "bg": "#ffffff",
+  "h": 361,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1091/2911_nottolino_NL_web.jpg",
+  "w": 855
+ },
+ "sel/salicepaolo/accessories-118-2912": {
+  "bg": "#ffffff",
+  "h": 361,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1092/2912_nottolino_NL_web.jpg",
+  "w": 844
+ },
+ "sel/salicepaolo/accessories-118-ares-886": {
+  "bg": "#ffffff",
+  "h": 151,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1090/ARES_chiave_NL.jpg",
+  "w": 443
+ },
+ "sel/salicepaolo/accessories-118-borbone-785": {
+  "bg": "#ffffff",
+  "h": 1465,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/980/BORBONE_finale-cerniera_NL_web.jpg",
+  "w": 724
+ },
+ "sel/salicepaolo/accessories-118-borromeo-778": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/973/BORROMEO_finale_cerniera_NL.jpg",
+  "w": 784
+ },
+ "sel/salicepaolo/accessories-118-deco-894": {
+  "bg": "#ffffff",
+  "h": 601,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1099/DECO_nottolino_bocch_NL.jpg",
+  "w": 1009
+ },
+ "sel/salicepaolo/accessories-118-este": {
+  "bg": "#ffffff",
+  "h": 677,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1228/ESTE_2930_nottolino_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/accessories-118-este-ci": {
+  "bg": "#ffffff",
+  "h": 677,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1229/ESTE_2931_nottolino_CI_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/accessories-118-foster-ci": {
+  "bg": "#ffffff",
+  "h": 576,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1207/FOSTER_nottolino-ci_NL_web.jpg",
+  "w": 1368
+ },
+ "sel/salicepaolo/accessories-118-kingstone-889": {
+  "bg": "#ffffff",
+  "h": 250,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1093/KINGSTONE_nottolino_NL_web.jpg",
+  "w": 615
+ },
+ "sel/salicepaolo/accessories-118-tudor-761": {
+  "bg": "#ffffff",
+  "h": 1016,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/956/TUDOR_fermaporte_NL.jpg",
+  "w": 801
+ },
+ "sel/salicepaolo/accessories-agrigento": {
+  "bg": "#ffffff",
+  "h": 622,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/235/AGRIGENTO-01.jpg",
+  "w": 918
+ },
+ "sel/salicepaolo/accessories-aosta": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/239/AOSTA-01.jpg",
+  "w": 130
+ },
+ "sel/salicepaolo/accessories-arona-221": {
+  "bg": "#ffffff",
+  "h": 632,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/262/ARONA-04.jpg",
+  "w": 878
+ },
+ "sel/salicepaolo/accessories-bellagio-224": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/265/BELLAGIO_4520.jpg",
+  "w": 758
+ },
+ "sel/salicepaolo/accessories-brasilia": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/270/BRASILIA-01.jpg",
+  "w": 545
+ },
+ "sel/salicepaolo/accessories-bristol": {
+  "bg": "#ffffff",
+  "h": 324,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/272/BRISTOL_.jpg",
+  "w": 599
+ },
+ "sel/salicepaolo/accessories-cannes": {
+  "bg": "#ffffff",
+  "h": 264,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/282/CANNES_chiave_POV.jpg",
+  "w": 642
+ },
+ "sel/salicepaolo/accessories-capr": {
+  "bg": "#ffffff",
+  "h": 217,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/283/CAPRI_placca-lettere.jpg",
+  "w": 951
+ },
+ "sel/salicepaolo/accessories-caracas-244": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/285/CARACAS-01.jpg",
+  "w": 757
+ },
+ "sel/salicepaolo/accessories-dionisio-207": {
+  "bg": "#ffffff",
+  "h": 884,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/248/314_DX.jpg",
+  "w": 370
+ },
+ "sel/salicepaolo/accessories-eolica-165": {
+  "bg": "#fefefe",
+  "h": 135,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/207/Eolica3.jpg",
+  "w": 300
+ },
+ "sel/salicepaolo/accessories-firenze-251": {
+  "bg": "#ffffff",
+  "h": 581,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/292/FIRENZE-05.jpg",
+  "w": 874
+ },
+ "sel/salicepaolo/accessories-galatea": {
+  "bg": "#ffffff",
+  "h": 868,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/241/GALATEA_cerniera_311A_dx_POV.jpg",
+  "w": 582
+ },
+ "sel/salicepaolo/accessories-la-paz": {
+  "bg": "#ffffff",
+  "h": 607,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/300/LA-PAZ-01.jpg",
+  "w": 639
+ },
+ "sel/salicepaolo/accessories-leeds": {
+  "bg": "#ffffff",
+  "h": 324,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/302/LEEDS_.jpg",
+  "w": 605
+ },
+ "sel/salicepaolo/accessories-maia": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1005/MAIA_copricerniere_324_325_326.jpg",
+  "w": 874
+ },
+ "sel/salicepaolo/accessories-milano": {
+  "bg": "#fcfcfe",
+  "h": 522,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/308/MILANO-01.jpg",
+  "w": 744
+ },
+ "sel/salicepaolo/accessories-nesea": {
+  "bg": "#ffffff",
+  "h": 936,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/315/NESEA_copricerniera_POV.jpg",
+  "w": 122
+ },
+ "sel/salicepaolo/accessories-nizza": {
+  "bg": "#ffffff",
+  "h": 315,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/259/NIZZA_chiave_POV.jpg",
+  "w": 602
+ },
+ "sel/salicepaolo/accessories-norcia": {
+  "bg": "#ffffff",
+  "h": 402,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/874/NORCIA_bocchetta-Y_DOR.jpg",
+  "w": 893
+ },
+ "sel/salicepaolo/accessories-pisa": {
+  "bg": "#ffffff",
+  "h": 297,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/318/PISA_fermaporte_POV.jpg",
+  "w": 825
+ },
+ "sel/salicepaolo/accessories-praga": {
+  "bg": "#ffffff",
+  "h": 228,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/324/Praga_POV_web.jpg",
+  "w": 1000
+ },
+ "sel/salicepaolo/accessories-queen": {
+  "bg": "#ffffff",
+  "h": 950,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/225/QUEEN-01.jpg",
+  "w": 405
+ },
+ "sel/salicepaolo/accessories-quito-295": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/335/QUITO-02.jpg",
+  "w": 837
+ },
+ "sel/salicepaolo/accessories-santiago-209": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/250/SANTIAGO-02.jpg",
+  "w": 834
+ },
+ "sel/salicepaolo/accessories-siena": {
+  "bg": "#ffffff",
+  "h": 300,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/252/SIENA_fermaporte_POV.jpg",
+  "w": 792
+ },
+ "sel/salicepaolo/accessories-sofia": {
+  "bg": "#ffffff",
+  "h": 869,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/325/SOFIA_catenaccio_BAS.jpg",
+  "w": 829
+ },
+ "sel/salicepaolo/accessories-stalingrado": {
+  "bg": "#ffffff",
+  "h": 297,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/251/STALINGRADO-01-bn.jpg",
+  "w": 248
+ },
+ "sel/salicepaolo/accessories-stresa": {
+  "bg": "#ffffff",
+  "h": 629,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/337/stresa-01.jpg",
+  "w": 991
+ },
+ "sel/salicepaolo/accessories-taormina": {
+  "bg": "#fefefe",
+  "h": 271,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/339/Taormina.jpg",
+  "w": 272
+ },
+ "sel/salicepaolo/door-pull-116-arnica": {
+  "bg": "#ffffff",
+  "h": 1542,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/861/ARNICA_maniglione-A_NL_2023.jpg",
+  "w": 199
+ },
+ "sel/salicepaolo/door-pull-116-ascot": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/536/ASCOT_maniglione_400_NL.jpg",
+  "w": 213
+ },
+ "sel/salicepaolo/door-pull-116-borbone-783": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/978/BORBONE_maniglione_NL.jpg",
+  "w": 306
+ },
+ "sel/salicepaolo/door-pull-116-borromeo-775": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/970/BORROMEO_maniglione_NL.jpg",
+  "w": 295
+ },
+ "sel/salicepaolo/door-pull-116-casati": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/996/CASATI_maniglione_NL.jpg",
+  "w": 256
+ },
+ "sel/salicepaolo/door-pull-116-cipriani": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/997/CIPRIANI_maniglione_NL.jpg",
+  "w": 364
+ },
+ "sel/salicepaolo/door-pull-116-deco-788": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/983/DECO_maniglione_NL.jpg",
+  "w": 292
+ },
+ "sel/salicepaolo/door-pull-116-diamante-66": {
+  "bg": "#ffffff",
+  "h": 1574,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/67/DIAMANTE_maniglione_NL_2023_web.jpg",
+  "w": 335
+ },
+ "sel/salicepaolo/door-pull-116-fresia-900": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1141/FRESIA_maniglione_int800_NL_web.jpg",
+  "w": 83
+ },
+ "sel/salicepaolo/door-pull-116-hamilton-914": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1188/HAMILTON_man_NL_web.jpg",
+  "w": 175
+ },
+ "sel/salicepaolo/door-pull-116-tudor-758": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/953/TUDOR_maniglione_A.jpg",
+  "w": 164
+ },
+ "sel/salicepaolo/door-pull-116-victoria": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/322/VICTORIA_maniglione_400_NL.jpg",
+  "w": 372
+ },
+ "sel/salicepaolo/door-pull-116-york-769": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/964/YORK_maniglione_A_NL.jpg",
+  "w": 288
+ },
+ "sel/salicepaolo/door-pull-alais": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/627/ALAIS-01.jpg",
+  "w": 154
+ },
+ "sel/salicepaolo/door-pull-angkor": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1224/3084_Angkor_man_liscio_NL.jpg",
+  "w": 210
+ },
+ "sel/salicepaolo/door-pull-angkor-r": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1237/3083_OL.jpg",
+  "w": 207
+ },
+ "sel/salicepaolo/door-pull-ankara": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/572/ANKARA-01.jpg",
+  "w": 142
+ },
+ "sel/salicepaolo/door-pull-berna": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1035/3082.jpg",
+  "w": 210
+ },
+ "sel/salicepaolo/door-pull-bombay": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/568/BOMBAY-01.jpg",
+  "w": 99
+ },
+ "sel/salicepaolo/door-pull-boulogne": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/658/BOULOGNE-01.jpg",
+  "w": 145
+ },
+ "sel/salicepaolo/door-pull-byblos": {
+  "bg": "#ffffff",
+  "h": 990,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/660/BYBLOS_maniglione_3066-satinato.jpg",
+  "w": 205
+ },
+ "sel/salicepaolo/door-pull-corinthius": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/782/CORINTHUS_maniglione_AL-POV.jpg",
+  "w": 113
+ },
+ "sel/salicepaolo/door-pull-eolica-164": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/206/EOLICA-02.jpg",
+  "w": 229
+ },
+ "sel/salicepaolo/door-pull-ginevra-694": {
+  "bg": "#ffffff",
+  "h": 902,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/766/GINEVRA_maniglione_OL_web.jpg",
+  "w": 259
+ },
+ "sel/salicepaolo/door-pull-gulliver": {
+  "bg": "#ffffff",
+  "h": 982,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/298/GULLIVER_maniglione_POV_big_1562856290.jpg",
+  "w": 76
+ },
+ "sel/salicepaolo/door-pull-istanbul": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/299/ISTANBUL-01.jpg",
+  "w": 120
+ },
+ "sel/salicepaolo/door-pull-karachi": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/326/KARACHI-01.jpg",
+  "w": 108
+ },
+ "sel/salicepaolo/door-pull-king-600": {
+  "bg": "#ffffff",
+  "h": 926,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/670/KING_maniglione_BAS.jpg",
+  "w": 194
+ },
+ "sel/salicepaolo/door-pull-lion": {
+  "bg": "#ffffff",
+  "h": 948,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/671/LION_maniglione_BAS.jpg",
+  "w": 156
+ },
+ "sel/salicepaolo/door-pull-madras": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/672/MADRAS_maniglione.jpg",
+  "w": 97
+ },
+ "sel/salicepaolo/door-pull-manila": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/557/MANILA-01.jpg",
+  "w": 220
+ },
+ "sel/salicepaolo/door-pull-matera": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/538/matera.jpg",
+  "w": 228
+ },
+ "sel/salicepaolo/door-pull-meda-222": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/263/MEDA-01.jpg",
+  "w": 127
+ },
+ "sel/salicepaolo/door-pull-milse": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/673/MILSE-01.jpg",
+  "w": 175
+ },
+ "sel/salicepaolo/door-pull-nekla": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/676/NEKLA-01.jpg",
+  "w": 179
+ },
+ "sel/salicepaolo/door-pull-parigi": {
+  "bg": "#ffffff",
+  "h": 911,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/541/PARIGI_maniglioni_POVBAS.jpg",
+  "w": 660
+ },
+ "sel/salicepaolo/door-pull-parigi-607": {
+  "bg": "#ffffff",
+  "h": 957,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/677/PRINCE_maniglione_BAS.jpg",
+  "w": 217
+ },
+ "sel/salicepaolo/door-pull-queen-189": {
+  "bg": "#ffffff",
+  "h": 998,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/231/QUEEN_maniglione_POV.jpg",
+  "w": 200
+ },
+ "sel/salicepaolo/door-pull-rhodus-705": {
+  "bg": "#ffffff",
+  "h": 700,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/781/RHODUS_maniglione_DOR-POV.jpg",
+  "w": 89
+ },
+ "sel/salicepaolo/door-pull-seoul": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/656/SEOUL-01.jpg",
+  "w": 171
+ },
+ "sel/salicepaolo/door-pull-snake": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/678/SNAKE-01.jpg",
+  "w": 131
+ },
+ "sel/salicepaolo/door-pull-sparta": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/679/SPARTA.jpg",
+  "w": 120
+ },
+ "sel/salicepaolo/door-pull-urbino-695": {
+  "bg": "#ffffff",
+  "h": 850,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/767/3074_OL.jpg",
+  "w": 194
+ },
+ "sel/salicepaolo/door-pull-versailles-693": {
+  "bg": "#ffffff",
+  "h": 730,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/765/VERSAILLES_ALPOV.jpg",
+  "w": 199
+ },
+ "sel/salicepaolo/dreykipp-114-borbone-781": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/976/BORBONE_dk_NL.jpg",
+  "w": 434
+ },
+ "sel/salicepaolo/dreykipp-114-borromeo-774": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/969/BORROMEO_dk_NL.jpg",
+  "w": 452
+ },
+ "sel/salicepaolo/dreykipp-114-cassia-722": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/867/CASSIA_dk_NL.jpg",
+  "w": 510
+ },
+ "sel/salicepaolo/dreykipp-114-celsia-905": {
+  "bg": "#ffffff",
+  "h": 888,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1145/CELSIA_dk_NL_web.jpg",
+  "w": 222
+ },
+ "sel/salicepaolo/dreykipp-114-crespi": {
+  "bg": "#ffffff",
+  "h": 1547,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1227/CRESPI_OL.jpg",
+  "w": 101
+ },
+ "sel/salicepaolo/dreykipp-114-deco-786": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/981/DECO_dk_NL.jpg",
+  "w": 463
+ },
+ "sel/salicepaolo/dreykipp-114-diamante": {
+  "bg": "#ffffff",
+  "h": 1478,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/64/DIAMANTE_dk_NL_2023_web.jpg",
+  "w": 436
+ },
+ "sel/salicepaolo/dreykipp-114-fresia": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/99/FRESIA_dk_NL.jpg",
+  "w": 479
+ },
+ "sel/salicepaolo/dreykipp-114-hamilton-912": {
+  "bg": "#ffffff",
+  "h": 1404,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1186/HAMILTON_dk_NL_web.jpg",
+  "w": 410
+ },
+ "sel/salicepaolo/dreykipp-114-krone-2038": {
+  "bg": "#ffffff",
+  "h": 1397,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1212/Krone_dk_NL-neutra.jpg",
+  "w": 392
+ },
+ "sel/salicepaolo/dreykipp-114-krone-jewel": {
+  "bg": "#ffffff",
+  "h": 1396,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1214/Krone_dk_NL-madreperla.jpg",
+  "w": 392
+ },
+ "sel/salicepaolo/dreykipp-114-krone-lux": {
+  "bg": "#ffffff",
+  "h": 1397,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1215/Krone_dk_NL-marmo-rosso-Levanto.jpg",
+  "w": 394
+ },
+ "sel/salicepaolo/dreykipp-114-krone-sartorial": {
+  "bg": "#ffffff",
+  "h": 1396,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1213/Krone_dk_NL-pelle-nera.jpg",
+  "w": 392
+ },
+ "sel/salicepaolo/dreykipp-114-medina-798": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/993/MEDINA_dk_NL.jpg",
+  "w": 462
+ },
+ "sel/salicepaolo/dreykipp-114-pitti-893": {
+  "bg": "#ffffff",
+  "h": 865,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1096/Pitti_dk_NL.jpg",
+  "w": 223
+ },
+ "sel/salicepaolo/dreykipp-114-sforza-797": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/992/SFORZA_dk_NL.jpg",
+  "w": 439
+ },
+ "sel/salicepaolo/dreykipp-114-sveva-897": {
+  "bg": "#ffffff",
+  "h": 881,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1138/SVEVA_dk_NL_web.jpg",
+  "w": 337
+ },
+ "sel/salicepaolo/dreykipp-114-taylor-943": {
+  "bg": "#ffffff",
+  "h": 1394,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1243/TAYLOR_dk_NL_web.jpg",
+  "w": 420
+ },
+ "sel/salicepaolo/dreykipp-114-tudor-755": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/933/TUDOR_dk_NL.jpg",
+  "w": 460
+ },
+ "sel/salicepaolo/dreykipp-114-york-767": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/962/YORK_dk_NL.jpg",
+  "w": 445
+ },
+ "sel/salicepaolo/entrance-set-aladin": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/258/ALADIN_3225_1610529927.jpg",
+  "w": 823
+ },
+ "sel/salicepaolo/entrance-set-boston": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/332/BOSTON_3205.jpg",
+  "w": 717
+ },
+ "sel/salicepaolo/entrance-set-memphis": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/279/MEMPHIS_3200.jpg",
+  "w": 868
+ },
+ "sel/salicepaolo/entrance-set-miami": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/257/MIAMI_3230.jpg",
+  "w": 755
+ },
+ "sel/salicepaolo/entrance-set-new-yor": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/740/NEW-YORK_3235.jpg",
+  "w": 827
+ },
+ "sel/salicepaolo/entrance-set-seattle-580": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/651/SEATTLE_3240.jpg",
+  "w": 615
+ },
+ "sel/salicepaolo/entrance-set-yale-aladin-y": {
+  "bg": "#ffffff",
+  "h": 743,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/410/ALADIN-Y_SX.jpg",
+  "w": 490
+ },
+ "sel/salicepaolo/entrance-set-yale-boston-y-558": {
+  "bg": "#ffffff",
+  "h": 701,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/613/3205Y.jpg",
+  "w": 395
+ },
+ "sel/salicepaolo/entrance-set-yale-memphis-y": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/642/MEMPHIS_Y_SX.jpg",
+  "w": 477
+ },
+ "sel/salicepaolo/entrance-set-yale-miami-y": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/746/MIAMI_Y_SX.jpg",
+  "w": 555
+ },
+ "sel/salicepaolo/entrance-set-yale-new-york-y": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/747/NEW_YORK_Y_SX.jpg",
+  "w": 650
+ },
+ "sel/salicepaolo/entrance-set-yale-seattle-y": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/748/SEATTLE_Y_SX.jpg",
+  "w": 607
+ },
+ "sel/salicepaolo/furniture-decoration-angolo-40": {
+  "bg": "#ffffff",
+  "h": 297,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/353/40-LH-RH.jpg",
+  "w": 625
+ },
+ "sel/salicepaolo/furniture-decoration-angolo-6": {
+  "bg": "#ffffff",
+  "h": 537,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/354/6.jpg",
+  "w": 599
+ },
+ "sel/salicepaolo/furniture-decoration-boc-20": {
+  "bg": "#ffffff",
+  "h": 428,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/357/20-A-B.jpg",
+  "w": 704
+ },
+ "sel/salicepaolo/furniture-decoration-boc-32": {
+  "bg": "#ffffff",
+  "h": 713,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/358/32.jpg",
+  "w": 520
+ },
+ "sel/salicepaolo/furniture-decoration-boc-45": {
+  "bg": "#ffffff",
+  "h": 722,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/359/45.jpg",
+  "w": 239
+ },
+ "sel/salicepaolo/furniture-decoration-boc-53": {
+  "bg": "#ffffff",
+  "h": 524,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/360/52.jpg",
+  "w": 366
+ },
+ "sel/salicepaolo/furniture-decoration-boc-79": {
+  "bg": "#ffffff",
+  "h": 693,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/361/79.jpg",
+  "w": 283
+ },
+ "sel/salicepaolo/furniture-decoration-boc-80": {
+  "bg": "#ffffff",
+  "h": 218,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/362/80.jpg",
+  "w": 584
+ },
+ "sel/salicepaolo/furniture-decoration-boc-81": {
+  "bg": "#ffffff",
+  "h": 574,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/363/81.jpg",
+  "w": 409
+ },
+ "sel/salicepaolo/furniture-decoration-bor-0150": {
+  "bg": "#ffffff",
+  "h": 609,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/364/0150-A-B-C.jpg",
+  "w": 317
+ },
+ "sel/salicepaolo/furniture-decoration-bor-0152": {
+  "bg": "#ffffff",
+  "h": 580,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/365/BOR_0152_web.jpg",
+  "w": 308
+ },
+ "sel/salicepaolo/furniture-decoration-bor-34": {
+  "bg": "#ffffff",
+  "h": 653,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/366/34.jpg",
+  "w": 373
+ },
+ "sel/salicepaolo/furniture-decoration-bor-35": {
+  "bg": "#ffffff",
+  "h": 500,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/367/35.jpg",
+  "w": 493
+ },
+ "sel/salicepaolo/furniture-decoration-bor-56": {
+  "bg": "#ffffff",
+  "h": 487,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/368/56.jpg",
+  "w": 656
+ },
+ "sel/salicepaolo/furniture-decoration-bor-57": {
+  "bg": "#ffffff",
+  "h": 513,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/369/57.jpg",
+  "w": 616
+ },
+ "sel/salicepaolo/furniture-decoration-bor-60": {
+  "bg": "#ffffff",
+  "h": 652,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/370/60-A-B.jpg",
+  "w": 329
+ },
+ "sel/salicepaolo/furniture-decoration-bor-61": {
+  "bg": "#ffffff",
+  "h": 560,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/371/61-A-B.jpg",
+  "w": 286
+ },
+ "sel/salicepaolo/furniture-decoration-cim-17": {
+  "bg": "#ffffff",
+  "h": 320,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/372/17.jpg",
+  "w": 733
+ },
+ "sel/salicepaolo/furniture-decoration-cim-5": {
+  "bg": "#ffffff",
+  "h": 263,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/373/5.jpg",
+  "w": 714
+ },
+ "sel/salicepaolo/furniture-decoration-cur-26": {
+  "bg": "#fdfdfd",
+  "h": 266,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/374/cur26.jpg",
+  "w": 300
+ },
+ "sel/salicepaolo/furniture-decoration-fr-e39": {
+  "bg": "#ffffff",
+  "h": 666,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/379/39.jpg",
+  "w": 31
+ },
+ "sel/salicepaolo/furniture-decoration-fre-0109": {
+  "bg": "#ffffff",
+  "h": 232,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/375/0109.jpg",
+  "w": 604
+ },
+ "sel/salicepaolo/furniture-decoration-fre-26": {
+  "bg": "#fdfdfd",
+  "h": 300,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/377/fre26.jpg",
+  "w": 104
+ },
+ "sel/salicepaolo/furniture-decoration-fre-36": {
+  "bg": "#ffffff",
+  "h": 658,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/378/36.jpg",
+  "w": 326
+ },
+ "sel/salicepaolo/furniture-decoration-fre-43": {
+  "bg": "#ffffff",
+  "h": 35,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/381/43.jpg",
+  "w": 654
+ },
+ "sel/salicepaolo/furniture-decoration-fre-44": {
+  "bg": "#ffffff",
+  "h": 40,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/382/44.jpg",
+  "w": 669
+ },
+ "sel/salicepaolo/furniture-decoration-fre-53": {
+  "bg": "#ffffff",
+  "h": 576,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/383/53.jpg",
+  "w": 101
+ },
+ "sel/salicepaolo/furniture-decoration-fre-54": {
+  "bg": "#ffffff",
+  "h": 636,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/384/54.jpg",
+  "w": 63
+ },
+ "sel/salicepaolo/furniture-decoration-fre-55": {
+  "bg": "#ffffff",
+  "h": 656,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/385/55-LH-RH.jpg",
+  "w": 632
+ },
+ "sel/salicepaolo/furniture-decoration-fre-58-59": {
+  "bg": "#ffffff",
+  "h": 700,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/386/58.jpg",
+  "w": 1571
+ },
+ "sel/salicepaolo/furniture-decoration-fre-77": {
+  "bg": "#ffffff",
+  "h": 400,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/387/77.jpg",
+  "w": 612
+ },
+ "sel/salicepaolo/furniture-decoration-fre-8": {
+  "bg": "#ffffff",
+  "h": 30,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/388/86.jpg",
+  "w": 707
+ },
+ "sel/salicepaolo/furniture-decoration-fre-87": {
+  "bg": "#ffffff",
+  "h": 69,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/389/87.jpg",
+  "w": 679
+ },
+ "sel/salicepaolo/furniture-decoration-fre22": {
+  "bg": "#ffffff",
+  "h": 617,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/376/22.jpg",
+  "w": 146
+ },
+ "sel/salicepaolo/furniture-decoration-fre41": {
+  "bg": "#ffffff",
+  "h": 260,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/380/41.jpg",
+  "w": 689
+ },
+ "sel/salicepaolo/furniture-decoration-gat-70": {
+  "bg": "#ffffff",
+  "h": 631,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/394/70.jpg",
+  "w": 116
+ },
+ "sel/salicepaolo/furniture-decoration-gat-85": {
+  "bg": "#ffffff",
+  "h": 596,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/399/85.jpg",
+  "w": 168
+ },
+ "sel/salicepaolo/furniture-decoration-pil-1": {
+  "bg": "#ffffff",
+  "h": 707,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/400/1.jpg",
+  "w": 221
+ },
+ "sel/salicepaolo/furniture-decoration-pil-37": {
+  "bg": "#ffffff",
+  "h": 689,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/401/37-B-C.jpg",
+  "w": 228
+ },
+ "sel/salicepaolo/furniture-decoration-pil-38-363": {
+  "bg": "#ffffff",
+  "h": 660,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/403/38.jpg",
+  "w": 57
+ },
+ "sel/salicepaolo/furniture-decoration-pil-62": {
+  "bg": "#ffffff",
+  "h": 567,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/404/62.jpg",
+  "w": 176
+ },
+ "sel/salicepaolo/furniture-decoration-pil-63": {
+  "bg": "#ffffff",
+  "h": 644,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/405/63.jpg",
+  "w": 194
+ },
+ "sel/salicepaolo/furniture-decoration-pil-64": {
+  "bg": "#ffffff",
+  "h": 621,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/406/64.jpg",
+  "w": 210
+ },
+ "sel/salicepaolo/furniture-decoration-pil-65": {
+  "bg": "#ffffff",
+  "h": 681,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/407/65_1466419821.jpg",
+  "w": 174
+ },
+ "sel/salicepaolo/furniture-decoration-pil-7": {
+  "bg": "#ffffff",
+  "h": 666,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/408/7.jpg",
+  "w": 179
+ },
+ "sel/salicepaolo/furniture-decoration-pil-72": {
+  "bg": "#ffffff",
+  "h": 644,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/409/72.jpg",
+  "w": 192
+ },
+ "sel/salicepaolo/furniture-decoration-pil-73": {
+  "bg": "#ffffff",
+  "h": 623,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/499/73.jpg",
+  "w": 186
+ },
+ "sel/salicepaolo/furniture-decoration-pun-51": {
+  "bg": "#ffffff",
+  "h": 543,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/500/51.jpg",
+  "w": 239
+ },
+ "sel/salicepaolo/furniture-decoration-pun-82": {
+  "bg": "#ffffff",
+  "h": 491,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/502/82.jpg",
+  "w": 209
+ },
+ "sel/salicepaolo/furniture-decoration-pun-83": {
+  "bg": "#ffffff",
+  "h": 610,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/503/83.jpg",
+  "w": 232
+ },
+ "sel/salicepaolo/furniture-decoration-pun-84": {
+  "bg": "#ffffff",
+  "h": 574,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/504/84.jpg",
+  "w": 293
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-arianna-445bis": {
+  "bg": "#ffffff",
+  "h": 665,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/65/DIAMANTE_pomolini_A_B_C_D_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-arianna-460": {
+  "bg": "#ffffff",
+  "h": 958,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/42/ARUM_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-arianna-4621": {
+  "bg": "#ffffff",
+  "h": 1005,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/36/ASTER_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-arianna-885": {
+  "bg": "#ffffff",
+  "h": 866,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1087/ARIANNA_pomolini-A-B-C_NL.jpg",
+  "w": 1409
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-borbone-784": {
+  "bg": "#ffffff",
+  "h": 971,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/979/BORBONE_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-borromeo-776": {
+  "bg": "#ffffff",
+  "h": 867,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/971/BORROMEO_pomolini_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-deco-790": {
+  "bg": "#ffffff",
+  "h": 433,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/985/DECO_manigliette-A-e-B_NL.jpg",
+  "w": 1122
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-fresia-795": {
+  "bg": "#ffffff",
+  "h": 621,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/990/FRESIA_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-hamilton-917": {
+  "bg": "#ffffff",
+  "h": 1499,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1201/Hamilton_maniglietta_A_NL_web.jpg",
+  "w": 117
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-pitti-903": {
+  "bg": "#ffffff",
+  "h": 345,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1143/PITTI_manigliette-A-e-B_NL_web.jpg",
+  "w": 899
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-tudor-760": {
+  "bg": "#ffffff",
+  "h": 596,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/955/TUDOR_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-handles-and-knobs-york-770": {
+  "bg": "#ffffff",
+  "h": 701,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/965/YORK_manigliette_A_e_B_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-stud-botticelli": {
+  "bg": "#ffffff",
+  "h": 199,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/526/thumb_BOTTICELLI-011.jpg",
+  "w": 197
+ },
+ "sel/salicepaolo/furniture-stud-caravaggio": {
+  "bg": "#ffffff",
+  "h": 180,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/527/thumb_CARAVAGGIO-0111.jpg",
+  "w": 174
+ },
+ "sel/salicepaolo/furniture-stud-ginevra-811": {
+  "bg": "#ffffff",
+  "h": 448,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1009/GINEVRA_maniglietta_BAS.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/furniture-stud-giotto": {
+  "bg": "#ffffff",
+  "h": 204,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/528/thumb_GIOTTO-011.jpg",
+  "w": 212
+ },
+ "sel/salicepaolo/furniture-stud-leonardo": {
+  "bg": "#ffffff",
+  "h": 208,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/529/thumb_LEONARDO-011.jpg",
+  "w": 217
+ },
+ "sel/salicepaolo/furniture-stud-man-024": {
+  "bg": "#ffffff",
+  "h": 636,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/414/024-A-B-C.jpg",
+  "w": 205
+ },
+ "sel/salicepaolo/furniture-stud-man-092": {
+  "bg": "#ffffff",
+  "h": 585,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/415/092-A-B.jpg",
+  "w": 463
+ },
+ "sel/salicepaolo/furniture-stud-man-1933": {
+  "bg": "#ffffff",
+  "h": 271,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/505/1933-A-B.jpg",
+  "w": 650
+ },
+ "sel/salicepaolo/furniture-stud-man-432": {
+  "bg": "#ffffff",
+  "h": 464,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/512/432-A-B.jpg",
+  "w": 531
+ },
+ "sel/salicepaolo/furniture-stud-man-438": {
+  "bg": "#ffffff",
+  "h": 562,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/513/438-A-B.jpg",
+  "w": 659
+ },
+ "sel/salicepaolo/furniture-stud-man-439": {
+  "bg": "#ffffff",
+  "h": 589,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/514/439-A-B.jpg",
+  "w": 636
+ },
+ "sel/salicepaolo/furniture-stud-man-440a-b-c": {
+  "bg": "#ffffff",
+  "h": 657,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/515/440-A-B-C.jpg",
+  "w": 704
+ },
+ "sel/salicepaolo/furniture-stud-man-442": {
+  "bg": "#ffffff",
+  "h": 607,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/516/442-A-B.jpg",
+  "w": 445
+ },
+ "sel/salicepaolo/furniture-stud-man-443": {
+  "bg": "#ffffff",
+  "h": 603,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/517/443-A-B.jpg",
+  "w": 425
+ },
+ "sel/salicepaolo/furniture-stud-man-88": {
+  "bg": "#ffffff",
+  "h": 136,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/519/88-LH-RH.jpg",
+  "w": 695
+ },
+ "sel/salicepaolo/furniture-stud-man-89": {
+  "bg": "#ffffff",
+  "h": 193,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/520/89.jpg",
+  "w": 564
+ },
+ "sel/salicepaolo/furniture-stud-man-90": {
+  "bg": "#ffffff",
+  "h": 192,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/521/90.jpg",
+  "w": 668
+ },
+ "sel/salicepaolo/furniture-stud-man-91": {
+  "bg": "#ffffff",
+  "h": 293,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/522/91.jpg",
+  "w": 559
+ },
+ "sel/salicepaolo/furniture-stud-man-92": {
+  "bg": "#ffffff",
+  "h": 310,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/523/92.jpg",
+  "w": 601
+ },
+ "sel/salicepaolo/furniture-stud-man-94": {
+  "bg": "#ffffff",
+  "h": 276,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/525/94.jpg",
+  "w": 603
+ },
+ "sel/salicepaolo/furniture-stud-masaccio": {
+  "bg": "#ffffff",
+  "h": 193,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/530/thumb_MASACCIO-011.jpg",
+  "w": 170
+ },
+ "sel/salicepaolo/furniture-stud-michelangelo": {
+  "bg": "#ffffff",
+  "h": 180,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/531/thumb_MICHELANGELO-011.jpg",
+  "w": 180
+ },
+ "sel/salicepaolo/furniture-stud-pomolino-416": {
+  "bg": "#ffffff",
+  "h": 609,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/532/416-A-B.jpg",
+  "w": 465
+ },
+ "sel/salicepaolo/furniture-stud-raffaello": {
+  "bg": "#ffffff",
+  "h": 194,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/533/thumb_RAFFAELLO-011.jpg",
+  "w": 182
+ },
+ "sel/salicepaolo/furniture-stud-tiziano": {
+  "bg": "#ffffff",
+  "h": 165,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/534/thumb_TIZIANO-01.jpg",
+  "w": 156
+ },
+ "sel/salicepaolo/furniture-stud-urbino-732": {
+  "bg": "#ffffff",
+  "h": 509,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/875/URBINO_manigliette_1934A-B_web.jpg",
+  "w": 927
+ },
+ "sel/salicepaolo/furniture-stud-versailles-815": {
+  "bg": "#ffffff",
+  "h": 364,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1012/VERSAILLES_maniglietta_DORPOV.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/handles-113-borbone-780": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/975/BORBONE_pl_NL.jpg",
+  "w": 956
+ },
+ "sel/salicepaolo/handles-113-borromeo": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/968/BORROMEO_pl_NL.jpg",
+  "w": 974
+ },
+ "sel/salicepaolo/handles-113-carrara": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/709/SFORZA_pl_NL.jpg",
+  "w": 824
+ },
+ "sel/salicepaolo/handles-113-cassia-48": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/49/CASSIA_pl_NL.jpg",
+  "w": 861
+ },
+ "sel/salicepaolo/handles-113-celsia-904": {
+  "bg": "#ffffff",
+  "h": 928,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1144/CELSIA_pl_NL_web.jpg",
+  "w": 541
+ },
+ "sel/salicepaolo/handles-113-deco": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/711/DECO_pl_NL.jpg",
+  "w": 715
+ },
+ "sel/salicepaolo/handles-113-diamante-799": {
+  "bg": "#ffffff",
+  "h": 1502,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/994/DIAMANTE_pl_NL_2023_web.jpg",
+  "w": 802
+ },
+ "sel/salicepaolo/handles-113-fresia-718": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/869/FRESIA_pl_NL.jpg",
+  "w": 871
+ },
+ "sel/salicepaolo/handles-113-hamilton": {
+  "bg": "#ffffff",
+  "h": 1547,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1185/HAMILTON_pl_NL_web.jpg",
+  "w": 974
+ },
+ "sel/salicepaolo/handles-113-kone-jewel": {
+  "bg": "#ffffff",
+  "h": 1174,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1217/Krone_rb_OL-lapislazzulo.jpg",
+  "w": 1473
+ },
+ "sel/salicepaolo/handles-113-krone-2035": {
+  "bg": "#ffffff",
+  "h": 1176,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1219/Krone_rb_NL_neutra.jpg",
+  "w": 1473
+ },
+ "sel/salicepaolo/handles-113-krone-lux-927": {
+  "bg": "#ffffff",
+  "h": 1183,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1218/Krone_rb_OCS-marmo-verde-Guatemala.jpg",
+  "w": 1460
+ },
+ "sel/salicepaolo/handles-113-krone-sartorial-925": {
+  "bg": "#ffffff",
+  "h": 1174,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1216/Krone_rb_OCL-pelle-nera.jpg",
+  "w": 1475
+ },
+ "sel/salicepaolo/handles-113-medina": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/728/MEDINA_pl_NL.jpg",
+  "w": 776
+ },
+ "sel/salicepaolo/handles-113-pitti-892": {
+  "bg": "#ffffff",
+  "h": 965,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1097/Pitti_pl_NL.jpg",
+  "w": 549
+ },
+ "sel/salicepaolo/handles-113-sveva": {
+  "bg": "#ffffff",
+  "h": 928,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1137/SVEVA_pl_NL_web.jpg",
+  "w": 515
+ },
+ "sel/salicepaolo/handles-113-taylor": {
+  "bg": "#ffffff",
+  "h": 1546,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1242/TAYLOR_pl_NL_web.jpg",
+  "w": 922
+ },
+ "sel/salicepaolo/handles-113-tudor-754": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/932/TUDOR_pl_NL.jpg",
+  "w": 983
+ },
+ "sel/salicepaolo/handles-113-york-765": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/960/YORK_pl_NL.jpg",
+  "w": 977
+ },
+ "sel/salicepaolo/handles-abu-dhabi": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1002/ABU_DHABI_pl_ALPOV.jpg",
+  "w": 834
+ },
+ "sel/salicepaolo/handles-avignone": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/413/AVIGNONE-01.jpg",
+  "w": 291
+ },
+ "sel/salicepaolo/handles-baku": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/699/Baku.jpg",
+  "w": 319
+ },
+ "sel/salicepaolo/handles-beirut": {
+  "bg": "#ffffff",
+  "h": 927,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/280/Beirut_pl_AV_web.jpg",
+  "w": 398
+ },
+ "sel/salicepaolo/handles-bordeaux": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/701/BORDEAUX-01.jpg",
+  "w": 217
+ },
+ "sel/salicepaolo/handles-bruges": {
+  "bg": "#ffffff",
+  "h": 922,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/702/BRUGES_placca_BAS.jpg",
+  "w": 486
+ },
+ "sel/salicepaolo/handles-cadice-635": {
+  "bg": "#ffffff",
+  "h": 942,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/705/CADICE_pl_small_D.jpg",
+  "w": 464
+ },
+ "sel/salicepaolo/handles-capua": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/706/Capua2.jpg",
+  "w": 473
+ },
+ "sel/salicepaolo/handles-cortona": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1031/3366.jpg",
+  "w": 860
+ },
+ "sel/salicepaolo/handles-dakar-280": {
+  "bg": "#ffffff",
+  "h": 744,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/321/DAKAR-02.jpg",
+  "w": 399
+ },
+ "sel/salicepaolo/handles-damasco": {
+  "bg": "#ffffff",
+  "h": 925,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/274/DAMASCO_pl_BAS_web.jpg",
+  "w": 444
+ },
+ "sel/salicepaolo/handles-doha-645": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/717/Doha2.jpg",
+  "w": 408
+ },
+ "sel/salicepaolo/handles-dubai": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/719/DUBAI_placca.jpg",
+  "w": 371
+ },
+ "sel/salicepaolo/handles-eolica-170": {
+  "bg": "#ffffff",
+  "h": 888,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/212/8012_EOLICA_pl_BAS.jpg",
+  "w": 1124
+ },
+ "sel/salicepaolo/handles-erice": {
+  "bg": "#ffffff",
+  "h": 967,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1027/ERICE_pl_OL_1547810553.jpg",
+  "w": 613
+ },
+ "sel/salicepaolo/handles-ginevra": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/333/GINEVRA-01.jpg",
+  "w": 454
+ },
+ "sel/salicepaolo/handles-giza-849": {
+  "bg": "#ffffff",
+  "h": 926,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1053/GIZA_pl_POV.jpg",
+  "w": 560
+ },
+ "sel/salicepaolo/handles-hannover": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/303/HANNOVER-01.jpg",
+  "w": 342
+ },
+ "sel/salicepaolo/handles-jakarta-522": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/564/JAKARTA-01.jpg",
+  "w": 327
+ },
+ "sel/salicepaolo/handles-king-717": {
+  "bg": "#ffffff",
+  "h": 894,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/862/KING_pl_DOR.jpg",
+  "w": 605
+ },
+ "sel/salicepaolo/handles-lille": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/722/Lille2.jpg",
+  "w": 404
+ },
+ "sel/salicepaolo/handles-lisbona": {
+  "bg": "#ffffff",
+  "h": 900,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/724/Lisbona_pl_DOR_web.jpg",
+  "w": 406
+ },
+ "sel/salicepaolo/handles-lucca": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/306/LUCCA-01.jpg",
+  "w": 399
+ },
+ "sel/salicepaolo/handles-luxor": {
+  "bg": "#ffffff",
+  "h": 730,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/275/LUXOR-01.jpg",
+  "w": 375
+ },
+ "sel/salicepaolo/handles-montpellier": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/730/MONTPELLIER-01.jpg",
+  "w": 380
+ },
+ "sel/salicepaolo/handles-naxos": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/750/Naxos4.jpg",
+  "w": 411
+ },
+ "sel/salicepaolo/handles-orleans": {
+  "bg": "#ffffff",
+  "h": 947,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/276/Orleans_pl_D_web.jpg",
+  "w": 490
+ },
+ "sel/salicepaolo/handles-paestum": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/752/PAESTUM-01.jpg",
+  "w": 424
+ },
+ "sel/salicepaolo/handles-pompei": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/295/POMPEI-01_1466604527.jpg",
+  "w": 302
+ },
+ "sel/salicepaolo/handles-queen-186": {
+  "bg": "#fdfdfd",
+  "h": 300,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/228/Queen2.jpg",
+  "w": 170
+ },
+ "sel/salicepaolo/handles-ravenna": {
+  "bg": "#ffffff",
+  "h": 968,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1172/3371_DOR.jpg",
+  "w": 527
+ },
+ "sel/salicepaolo/handles-reims": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/273/REIMS-1.jpg",
+  "w": 443
+ },
+ "sel/salicepaolo/handles-riyadh": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/754/RIYADH-01.jpg",
+  "w": 302
+ },
+ "sel/salicepaolo/handles-rochefort-237": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/278/ROCHEFORT-01.jpg",
+  "w": 295
+ },
+ "sel/salicepaolo/handles-samaraa": {
+  "bg": "#ffffff",
+  "h": 867,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/338/SAMARRA_pl_ETR_web.jpg",
+  "w": 383
+ },
+ "sel/salicepaolo/handles-sharjah": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/246/SHARJAH-01.jpg",
+  "w": 326
+ },
+ "sel/salicepaolo/handles-todi": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/640/TODI-02.jpg",
+  "w": 441
+ },
+ "sel/salicepaolo/handles-tours-573": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/644/TOURS-01.jpg",
+  "w": 404
+ },
+ "sel/salicepaolo/handles-urbino": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/277/URBINO-01.jpg",
+  "w": 371
+ },
+ "sel/salicepaolo/handles-venezia-683": {
+  "bg": "#ffffff",
+  "h": 937,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/755/Venezia_pl_POV_web.jpg",
+  "w": 481
+ },
+ "sel/salicepaolo/handles-versailles": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/305/VERSAILLES-01.jpg",
+  "w": 363
+ },
+ "sel/salicepaolo/handles-versavia": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/346/VARSAVIA-02.jpg",
+  "w": 342
+ },
+ "sel/salicepaolo/handles-vienna": {
+  "bg": "#ffffff",
+  "h": 745,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/281/VIENNA-01.jpg",
+  "w": 319
+ },
+ "sel/salicepaolo/handles-volterra": {
+  "bg": "#ffffff",
+  "h": 975,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/758/Volterra_pl_BAS_web.jpg",
+  "w": 508
+ },
+ "sel/salicepaolo/knobs-115-arconati": {
+  "bg": "#ffffff",
+  "h": 904,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1241/ARCONATI_pom_lat_NL.jpg",
+  "w": 1224
+ },
+ "sel/salicepaolo/knobs-115-arese-2708": {
+  "bg": "#ffffff",
+  "h": 1264,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1240/ARESE_pom_NL.jpg",
+  "w": 1275
+ },
+ "sel/salicepaolo/knobs-115-arum": {
+  "bg": "#ffffff",
+  "h": 1427,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/41/ARUM_pomolo_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/knobs-115-aster": {
+  "bg": "#ffffff",
+  "h": 884,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/37/ASTER_pomolo_NL.jpg",
+  "w": 1055
+ },
+ "sel/salicepaolo/knobs-115-borbone-782": {
+  "bg": "#ffffff",
+  "h": 1272,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/977/BORBONE_pomolo_NL.jpg",
+  "w": 1232
+ },
+ "sel/salicepaolo/knobs-115-cosmos": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/194/COSMOS_pomolo_A_NL.jpg",
+  "w": 1357
+ },
+ "sel/salicepaolo/knobs-115-deco-787": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/982/DECO_pomolo_NL.jpg",
+  "w": 1032
+ },
+ "sel/salicepaolo/knobs-115-fresia-938": {
+  "bg": "#ffffff",
+  "h": 691,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1236/FRESIA_pomolo_3259_NL.jpg",
+  "w": 368
+ },
+ "sel/salicepaolo/knobs-115-hamilton-913": {
+  "bg": "#ffffff",
+  "h": 897,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1187/HAMILTON_pomolo_NL_web.jpg",
+  "w": 1302
+ },
+ "sel/salicepaolo/knobs-115-sirio": {
+  "bg": "#ffffff",
+  "h": 1404,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/66/DIAMANTE_pomolo_A_NL.jpg",
+  "w": 1600
+ },
+ "sel/salicepaolo/knobs-115-sveva-898": {
+  "bg": "#ffffff",
+  "h": 802,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1139/SVEVA_pomolo_NL_web.jpg",
+  "w": 452
+ },
+ "sel/salicepaolo/knobs-115-tudor-757": {
+  "bg": "#ffffff",
+  "h": 1278,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/952/TUDOR_pomolo_NL.jpg",
+  "w": 1238
+ },
+ "sel/salicepaolo/knobs-115-york-768": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/963/YORK_pomolo_NL.jpg",
+  "w": 893
+ },
+ "sel/salicepaolo/knobs-beirut-312": {
+  "bg": "#ffffff",
+  "h": 713,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/352/BEIRUT_pomolo_web.jpg",
+  "w": 535
+ },
+ "sel/salicepaolo/knobs-dakar-503": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/547/DAKAR-03.jpg",
+  "w": 474
+ },
+ "sel/salicepaolo/knobs-damasco-506": {
+  "bg": "#ffffff",
+  "h": 712,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/549/Damasco_crem_DOR-POV_web.jpg",
+  "w": 383
+ },
+ "sel/salicepaolo/knobs-eolica-168": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/210/eolica_01A.jpg",
+  "w": 935
+ },
+ "sel/salicepaolo/knobs-hannover-516": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/558/HANNOVER-02.jpg",
+  "w": 648
+ },
+ "sel/salicepaolo/knobs-jakarta-723": {
+  "bg": "#ffffff",
+  "h": 748,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/880/JAKARTA_nottolinno_1466605827.jpg",
+  "w": 545
+ },
+ "sel/salicepaolo/knobs-le-havre": {
+  "bg": "#ffffff",
+  "h": 659,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/616/LeHavre_pomolo_DOR-POV_web.jpg",
+  "w": 867
+ },
+ "sel/salicepaolo/knobs-leningrado": {
+  "bg": "#ffffff",
+  "h": 749,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/254/LENINGRADO-01.jpg",
+  "w": 886
+ },
+ "sel/salicepaolo/knobs-lione": {
+  "bg": "#ffffff",
+  "h": 651,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/331/Lione_pomolo_4321A_D_web.jpg",
+  "w": 837
+ },
+ "sel/salicepaolo/knobs-lisbona-655": {
+  "bg": "#ffffff",
+  "h": 737,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/727/LISBONA-02.jpg",
+  "w": 508
+ },
+ "sel/salicepaolo/knobs-mosca": {
+  "bg": "#ffffff",
+  "h": 587,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/539/MOSCA-_pomolo_POV_web.jpg",
+  "w": 775
+ },
+ "sel/salicepaolo/knobs-nantes": {
+  "bg": "#ffffff",
+  "h": 676,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/764/Nantes_pomolo_D_web.jpg",
+  "w": 783
+ },
+ "sel/salicepaolo/knobs-orleans-540": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/595/ORLEANS-03.jpg",
+  "w": 492
+ },
+ "sel/salicepaolo/knobs-pompei-541": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/596/POMPEI-02.jpg",
+  "w": 448
+ },
+ "sel/salicepaolo/knobs-reims-544": {
+  "bg": "#ffffff",
+  "h": 561,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/599/REIMS_pomolo_POV.jpg",
+  "w": 345
+ },
+ "sel/salicepaolo/knobs-rennes": {
+  "bg": "#ffffff",
+  "h": 702,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/708/Rennes_pomolo_BAS_web.jpg",
+  "w": 818
+ },
+ "sel/salicepaolo/knobs-samarcanda": {
+  "bg": "#ffffff",
+  "h": 711,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/319/SAMARCANDA_pomolo_BAS_web.jpg",
+  "w": 833
+ },
+ "sel/salicepaolo/knobs-samarra-547": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/602/SAMARRA-02.jpg",
+  "w": 443
+ },
+ "sel/salicepaolo/knobs-urbino-553": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/608/URBINO-02.jpg",
+  "w": 362
+ },
+ "sel/salicepaolo/knobs-varsavia-554": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/609/VARSAVIA-02.jpg",
+  "w": 560
+ },
+ "sel/salicepaolo/knobs-vienna-557": {
+  "bg": "#ffffff",
+  "h": 748,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/612/VIENNA-02.jpg",
+  "w": 628
+ },
+ "sel/salicepaolo/moving-window-knob-3347": {
+  "bg": "#ffffff",
+  "h": 751,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1065/VOLTERRA_dk_POV.jpg",
+  "w": 208
+ },
+ "sel/salicepaolo/moving-window-knob-4253": {
+  "bg": "#ffffff",
+  "h": 664,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1069/LISBONA_dk_POV.jpg",
+  "w": 217
+ },
+ "sel/salicepaolo/moving-window-knob-baku-834": {
+  "bg": "#ffffff",
+  "h": 866,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1037/BAKU_dk_POV.jpg",
+  "w": 231
+ },
+ "sel/salicepaolo/moving-window-knob-beirut-872": {
+  "bg": "#ffffff",
+  "h": 710,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1075/BEIRUT_dk_POV.jpg",
+  "w": 210
+ },
+ "sel/salicepaolo/moving-window-knob-bruges-860": {
+  "bg": "#ffffff",
+  "h": 737,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1063/BRUGES_dk_POV.jpg",
+  "w": 209
+ },
+ "sel/salicepaolo/moving-window-knob-capua-856": {
+  "bg": "#ffffff",
+  "h": 778,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1060/CAPUA_dk_POV.jpg",
+  "w": 219
+ },
+ "sel/salicepaolo/moving-window-knob-cortona-832": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1034/3367.jpg",
+  "w": 348
+ },
+ "sel/salicepaolo/moving-window-knob-dakar-853": {
+  "bg": "#ffffff",
+  "h": 764,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1057/DAKAR_dk_POV.jpg",
+  "w": 203
+ },
+ "sel/salicepaolo/moving-window-knob-damasco-869": {
+  "bg": "#ffffff",
+  "h": 702,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1072/DAMASCO_dk_POV.jpg",
+  "w": 203
+ },
+ "sel/salicepaolo/moving-window-knob-doha-854": {
+  "bg": "#ffffff",
+  "h": 879,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1058/DOHA_dk_POV.jpg",
+  "w": 226
+ },
+ "sel/salicepaolo/moving-window-knob-eolica-167": {
+  "bg": "#ffffff",
+  "h": 902,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/209/EOLICA_crem_AV.jpg",
+  "w": 486
+ },
+ "sel/salicepaolo/moving-window-knob-erice-828": {
+  "bg": "#ffffff",
+  "h": 872,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1030/ERICE_dk_POV.jpg",
+  "w": 208
+ },
+ "sel/salicepaolo/moving-window-knob-ginevra-845": {
+  "bg": "#ffffff",
+  "h": 722,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1049/GINEVRA_dk_POV.jpg",
+  "w": 218
+ },
+ "sel/salicepaolo/moving-window-knob-giza-858": {
+  "bg": "#ffffff",
+  "h": 722,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1062/GIZA_dk_POV.jpg",
+  "w": 189
+ },
+ "sel/salicepaolo/moving-window-knob-hannover-878": {
+  "bg": "#ffffff",
+  "h": 679,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1082/HANNOVER_dk_POV.jpg",
+  "w": 194
+ },
+ "sel/salicepaolo/moving-window-knob-jakarta-877": {
+  "bg": "#ffffff",
+  "h": 683,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1080/JAKARTA_dk_POV.jpg",
+  "w": 201
+ },
+ "sel/salicepaolo/moving-window-knob-king-850": {
+  "bg": "#ffffff",
+  "h": 772,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1054/KING_dk_POV.jpg",
+  "w": 212
+ },
+ "sel/salicepaolo/moving-window-knob-lille-857": {
+  "bg": "#ffffff",
+  "h": 715,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1061/LILLE_dk_POV.jpg",
+  "w": 195
+ },
+ "sel/salicepaolo/moving-window-knob-limoges": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/567/LIMOGES-01.jpg",
+  "w": 84
+ },
+ "sel/salicepaolo/moving-window-knob-lucca-840": {
+  "bg": "#ffffff",
+  "h": 813,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1044/LUCCA_dk_POV.jpg",
+  "w": 216
+ },
+ "sel/salicepaolo/moving-window-knob-luxor-843": {
+  "bg": "#ffffff",
+  "h": 832,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1047/LUXOR_dk_POV.jpg",
+  "w": 208
+ },
+ "sel/salicepaolo/moving-window-knob-naxos-855": {
+  "bg": "#ffffff",
+  "h": 882,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1059/NAXOS_dk_POV.jpg",
+  "w": 234
+ },
+ "sel/salicepaolo/moving-window-knob-orleans-871": {
+  "bg": "#ffffff",
+  "h": 693,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1074/ORLEANS_dk_POV.jpg",
+  "w": 202
+ },
+ "sel/salicepaolo/moving-window-knob-paestum-852": {
+  "bg": "#ffffff",
+  "h": 847,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1056/PAESTUM_dk_POV.jpg",
+  "w": 230
+ },
+ "sel/salicepaolo/moving-window-knob-pompei-290": {
+  "bg": "#ffffff",
+  "h": 825,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/330/Pompei_dk_POV_2022_web.jpg",
+  "w": 234
+ },
+ "sel/salicepaolo/moving-window-knob-ravenna-909": {
+  "bg": "#ffffff",
+  "h": 915,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1174/3373_BAS.jpg",
+  "w": 283
+ },
+ "sel/salicepaolo/moving-window-knob-reims-842": {
+  "bg": "#ffffff",
+  "h": 743,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1046/REIMS_dk_POV.jpg",
+  "w": 192
+ },
+ "sel/salicepaolo/moving-window-knob-riyadh-873": {
+  "bg": "#ffffff",
+  "h": 791,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1076/RIYADH_dk_POV.jpg",
+  "w": 208
+ },
+ "sel/salicepaolo/moving-window-knob-rochefort-839": {
+  "bg": "#ffffff",
+  "h": 777,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1042/ROCHEFORT_dk_POV.jpg",
+  "w": 219
+ },
+ "sel/salicepaolo/moving-window-knob-samarra-868": {
+  "bg": "#ffffff",
+  "h": 669,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1071/SAMARRA_dk_POV.jpg",
+  "w": 220
+ },
+ "sel/salicepaolo/moving-window-knob-sharjah-835": {
+  "bg": "#ffffff",
+  "h": 780,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1038/SHARJAH_dk_POV.jpg",
+  "w": 229
+ },
+ "sel/salicepaolo/moving-window-knob-todi-847": {
+  "bg": "#ffffff",
+  "h": 724,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1050/TODI_dk_POV.jpg",
+  "w": 172
+ },
+ "sel/salicepaolo/moving-window-knob-tours-837": {
+  "bg": "#ffffff",
+  "h": 817,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1040/TOURS_dk_POV.jpg",
+  "w": 222
+ },
+ "sel/salicepaolo/moving-window-knob-urbino-836": {
+  "bg": "#ffffff",
+  "h": 734,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1039/URBINO_dk_POV.jpg",
+  "w": 196
+ },
+ "sel/salicepaolo/moving-window-knob-varsavia-307": {
+  "bg": "#ffffff",
+  "h": 882,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/347/Varsavia_dk_BAS_web.jpg",
+  "w": 253
+ },
+ "sel/salicepaolo/moving-window-knob-venezia-864": {
+  "bg": "#ffffff",
+  "h": 747,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1067/VENEZIA_dk_POV.jpg",
+  "w": 221
+ },
+ "sel/salicepaolo/moving-window-knob-versailles-851": {
+  "bg": "#ffffff",
+  "h": 865,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1055/VERSAILLES_dk_POV.jpg",
+  "w": 219
+ },
+ "sel/salicepaolo/moving-window-knob-vienna-870": {
+  "bg": "#ffffff",
+  "h": 703,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1073/VIENNA_dk_POV.jpg",
+  "w": 201
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-2902s": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/958/TIMELESS_scorrevole_NL.jpg",
+  "w": 315
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-carrara-640": {
+  "bg": "#ffffff",
+  "h": 969,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/710/SFORZA_scorrevole_NL_web.jpg",
+  "w": 202
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-deco-643": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/715/DECO_scorrevole_NL.jpg",
+  "w": 271
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-doria": {
+  "bg": "#ffffff",
+  "h": 294,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1136/DORIA_incasso_S_NL_web.jpg",
+  "w": 913
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-fresia-793": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/988/FRESIA_scorrevole_NL.jpg",
+  "w": 314
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-medina-690": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/762/MEDINA_scorrevole_NL.jpg",
+  "w": 272
+ },
+ "sel/salicepaolo/plate-for-sliding-door-119-york-766": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/961/YORK_scorrevole_NL.jpg",
+  "w": 351
+ },
+ "sel/salicepaolo/plate-for-sliding-door-abu-dhabi-808": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1003/ABU_DHABI_scorrevole_BAS.jpg",
+  "w": 290
+ },
+ "sel/salicepaolo/plate-for-sliding-door-avignogne": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/659/AVIGNONE-02.jpg",
+  "w": 127
+ },
+ "sel/salicepaolo/plate-for-sliding-door-beirut-309": {
+  "bg": "#ffffff",
+  "h": 978,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/349/Beirut_s_POV_web.jpg",
+  "w": 163
+ },
+ "sel/salicepaolo/plate-for-sliding-door-belgrado": {
+  "bg": "#ffffff",
+  "h": 839,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/535/ORLEANS_s_small_D_web.jpg",
+  "w": 274
+ },
+ "sel/salicepaolo/plate-for-sliding-door-bruges-634": {
+  "bg": "#ffffff",
+  "h": 708,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/704/BRUGES_incasso.jpg",
+  "w": 163
+ },
+ "sel/salicepaolo/plate-for-sliding-door-cadice-726": {
+  "bg": "#ffffff",
+  "h": 959,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1043/CADICE_s_POV.jpg",
+  "w": 190
+ },
+ "sel/salicepaolo/plate-for-sliding-door-cortona-831": {
+  "bg": "#ffffff",
+  "h": 1600,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1033/3366-S.jpg",
+  "w": 304
+ },
+ "sel/salicepaolo/plate-for-sliding-door-damasco-282": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/323/DAMASCO-01.jpg",
+  "w": 140
+ },
+ "sel/salicepaolo/plate-for-sliding-door-doha-844": {
+  "bg": "#ffffff",
+  "h": 963,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1048/DOHA_s_POV.jpg",
+  "w": 173
+ },
+ "sel/salicepaolo/plate-for-sliding-door-dubai-648": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/720/DUBAI_incasso.jpg",
+  "w": 144
+ },
+ "sel/salicepaolo/plate-for-sliding-door-erice-827": {
+  "bg": "#ffffff",
+  "h": 962,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1029/ERICE_s_POV.jpg",
+  "w": 193
+ },
+ "sel/salicepaolo/plate-for-sliding-door-ginevra-575": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/646/GINEVRA-03.jpg",
+  "w": 225
+ },
+ "sel/salicepaolo/plate-for-sliding-door-hannover-514": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/555/HANNOVER-01.jpg",
+  "w": 156
+ },
+ "sel/salicepaolo/plate-for-sliding-door-kiev": {
+  "bg": "#ffffff",
+  "h": 701,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/761/3078S.jpg",
+  "w": 379
+ },
+ "sel/salicepaolo/plate-for-sliding-door-lucca-859": {
+  "bg": "#ffffff",
+  "h": 967,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1064/LUCCA_s_POV.jpg",
+  "w": 190
+ },
+ "sel/salicepaolo/plate-for-sliding-door-luxor-862": {
+  "bg": "#ffffff",
+  "h": 966,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1066/LUXOR_s_POV.jpg",
+  "w": 164
+ },
+ "sel/salicepaolo/plate-for-sliding-door-manila-512": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/553/MANILA-01.jpg",
+  "w": 148
+ },
+ "sel/salicepaolo/plate-for-sliding-door-matera-495": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/540/MATERA-02.jpg",
+  "w": 154
+ },
+ "sel/salicepaolo/plate-for-sliding-door-montpellier-691": {
+  "bg": "#ffffff",
+  "h": 729,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/763/MONTPELLIER_incasso.jpg",
+  "w": 174
+ },
+ "sel/salicepaolo/plate-for-sliding-door-pompei-289": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/329/POMPEI-01.jpg",
+  "w": 144
+ },
+ "sel/salicepaolo/plate-for-sliding-door-ravenna-908": {
+  "bg": "#ffffff",
+  "h": 969,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1173/3371S_BAS.jpg",
+  "w": 202
+ },
+ "sel/salicepaolo/plate-for-sliding-door-riyadh-875": {
+  "bg": "#ffffff",
+  "h": 968,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1078/RIYADH_s_POV.jpg",
+  "w": 151
+ },
+ "sel/salicepaolo/plate-for-sliding-door-rochefort-604": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/674/ROCHEFORT-02.jpg",
+  "w": 164
+ },
+ "sel/salicepaolo/plate-for-sliding-door-tours-882": {
+  "bg": "#ffffff",
+  "h": 972,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/1085/TOURS_s_POV.jpg",
+  "w": 203
+ },
+ "sel/salicepaolo/plate-for-sliding-door-varsavia-305": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/345/VARSAVIA-01.jpg",
+  "w": 144
+ },
+ "sel/salicepaolo/plate-for-sliding-door-venezia-684": {
+  "bg": "#ffffff",
+  "h": 939,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/756/Venezia_scorr_POV_web.jpg",
+  "w": 207
+ },
+ "sel/salicepaolo/plate-for-sliding-door-versailles-562": {
+  "bg": "#ffffff",
+  "h": 750,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/619/VERSAILLES-02.jpg",
+  "w": 140
+ },
+ "sel/salicepaolo/plate-for-sliding-door-volterra-688": {
+  "bg": "#ffffff",
+  "h": 1000,
+  "mode": "cut",
+  "src": "https://www.salicepaolo.it/gallery/760/VOLTERRA_scorr_DOR_web.jpg",
+  "w": 205
+ },
+ "sel/simonswerk/sw107": {
+  "bg": "#ffffff",
+  "h": 480,
+  "mode": "cut",
+  "src": "https://www.simonswerk.com/fileadmin/_processed_/2/8/csm_TECTUS_Produktslider_Produktbild_TE_340_3D_TIEFSCHWARZ_MATT_RAL9005_ef73330cf3.webp",
+  "w": 223
+ },
+ "sel/simonswerk/te311fvz44": {
+  "bg": "#ffffff",
+  "h": 500,
+  "mode": "cut",
+  "src": "https://media-selector.simonswerk.com/storage/fileadmin/user_upload/Standardbild/TECTUS/TE_311_3D_FVZ_44.jpg",
+  "w": 325
+ },
+ "sel/simonswerk/te340": {
+  "bg": "#ffffff",
+  "h": 500,
+  "mode": "cut",
+  "src": "https://media-selector.simonswerk.com/storage/fileadmin/user_upload/Standardbild/TECTUS/TE_340_3D.jpg",
+  "w": 232
+ },
+ "sel/stv/a7-gold": {
+  "bg": "#ffffff",
+  "h": 1095,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=75",
+  "w": 309
+ },
+ "sel/stv/a7-steel": {
+  "bg": "#ffffff",
+  "h": 1002,
+  "mode": "cut",
+  "src": "https://www.stvserrature.it/img/pdf/Catalogo_generale-ita-eng.pdf#page=76",
+  "w": 266
+ },
+ "sel/stv/sw-brass": {
+  "bg": "#ffffff",
+  "h": 814,
+  "mode": "cut",
+  "src": "file:///home/user/models/CREATURA_STORIES/assets/highlights/_src/stv-a7-polished-brass.png",
+  "w": 814
+ },
+ "sel/stv/sw-chrome": {
+  "bg": "#ffffff",
+  "h": 814,
+  "mode": "cut",
+  "src": "file:///home/user/models/CREATURA_STORIES/assets/highlights/_src/stv-a7-matt-chrome.png",
+  "w": 814
+ },
+ "sel/stv/sw-nickel": {
+  "bg": "#ffffff",
+  "h": 794,
+  "mode": "cut",
+  "src": "file:///home/user/models/CREATURA_STORIES/assets/highlights/_src/stv-a7-matt-nickel.png",
+  "w": 813
+ },
+ "sel/stv/sw-white": {
+  "bg": "#ffffff",
+  "h": 829,
+  "mode": "cut",
+  "src": "file:///home/user/models/CREATURA_STORIES/assets/highlights/_src/stv-a7-white.png",
+  "w": 828
+ },
+ "sel/verum/atlanta": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_atlanta_cromo_satinato.jpg",
+  "w": 667
+ },
+ "sel/verum/baar": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_baar_cromo_satinato.jpg",
+  "w": 667
+ },
+ "sel/verum/lieve": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/12/verum_lieve_chromo_satinato.jpg",
+  "w": 667
+ },
+ "sel/verum/pepe": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_pepe_cromo_satinato.jpg",
+  "w": 667
+ },
+ "sel/verum/pure": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_pure_cromo_satinato.jpg",
+  "w": 667
+ },
+ "sel/verum/wind": {
+  "bg": "#e6e6e6",
+  "h": 1000,
+  "mode": "plate",
+  "src": "https://www.verumitaly.com/wp-content/uploads/2023/11/verum_wind_cromo_satinato.jpg",
+  "w": 667
+ },
  "simonswerk/alpro": {
   "bg": "#ffffff",
   "h": 719,
