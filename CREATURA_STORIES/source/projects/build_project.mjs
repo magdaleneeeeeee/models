@@ -21,25 +21,25 @@ const ff = (args) => execFileSync('ffmpeg', ['-hide_banner', '-loglevel', 'error
 // ── Storyboard ──────────────────────────────────────────────────────────────
 export const STORIES = [
   { id: 1, dur: 6.0, src: { video: 'IMG_2602.mov', ss: 0, to: 4.87, slow: 1.25 },
-    kicker: 'Реализованный проект', title: 'Каждая деталь имеет значение', line: 'Показываем результат нашей работы.',
+    focusY: 1030, kicker: 'Реализованный проект', title: 'Каждая деталь имеет значение', line: 'Показываем результат нашей работы.',
     sfx: [['whoosh', 0, 0.30], ['tick', 0.55, 0.22]], orig: 0.5 },
   { id: 2, dur: 6.0, src: { photo: 'IMG_2604.jpg', z: [1.0, 1.09], focus: [0.5, 0.56], cx: 0.5 },
-    kicker: 'Дверные ручки', title: 'SALICE PAOLO', line: 'Итальянский бренд. Элегантный дизайн, выразительная форма и внимание к деталям.',
+    focusY: 1110, kicker: 'Дверные ручки', title: 'SALICE PAOLO', line: 'Итальянский бренд. Элегантный дизайн, выразительная форма и внимание к деталям.',
     sfx: [['whoosh', 0, 0.28], ['tick', 0.55, 0.22]] },
   { id: 3, dur: 6.0, src: { photo: 'IMG_2599.jpg', z: [1.0, 1.10], focus: [0.62, 0.52], cx: 0.04 },
-    kicker: 'Замки', title: 'STV', line: 'За эстетикой — надёжность и функциональность в повседневном использовании.', cap: 'Made in Italy',
+    focusY: 1000, kicker: 'Замки', title: 'STV', line: 'За эстетикой — надёжность и функциональность в повседневном использовании.', cap: 'Made in Italy',
     sfx: [['whoosh', 0, 0.28], ['tick', 0.55, 0.22]] },
   { id: 4, dur: 6.7, src: { video: 'IMG_2600.mov', ss: 3.9, to: 9.3, slow: 1.25 },
-    kicker: 'Детали', title: 'Из деталей складывается пространство', line: 'Salice Paolo и STV в одном проекте.',
+    focusY: 1000, kicker: 'Детали', title: 'Из деталей складывается пространство', line: 'Salice Paolo и STV в одном проекте.',
     sfx: [['whoosh', 0, 0.28], ['tick', 0.55, 0.2]], orig: 0.45 },
   { id: 5, dur: 7.0, src: { photo: 'IMG_2605.jpg', z: [1.08, 1.0], focus: [0.5, 0.45], cx: 0.5 },
-    kicker: 'Ваш проект', title: 'Планируете ремонт или новый объект?', line: 'Подберём фурнитуру под ваш проект.', cta: 'Напишите нам в Direct',
+    focusY: 1350, kicker: 'Ваш проект', title: 'Планируете ремонт или новый объект?', line: 'Подберём фурнитуру под ваш проект.', cta: 'Напишите нам в Direct',
     sfx: [['whoosh', 0, 0.28], ['tick', 0.55, 0.2], ['tick', 1.45, 0.18]] },
 ];
 
 const NB = ' ';
 const typo = (s) => String(s).replace(/(^|\s)([А-Яа-яЁёA-Za-z]{1,2}|для|под|или)\s+/g, `$1$2${NB}`).replace(/\s+—/g, NB + '—').replace(/&/g, '&amp;').replace(/</g, '&lt;');
-const ARROW = `<svg viewBox="0 0 24 24" width="28" height="28" style="margin-left:16px;flex:none"><path d="M4 12h15M13 6l6 6-6 6" fill="none" stroke="#171717" stroke-width="1.8"/></svg>`;
+const ARROW = `<svg viewBox="0 0 24 24" width="36" height="36" style="margin-left:16px;flex:none"><path d="M4 12h15M13 6l6 6-6 6" fill="none" stroke="#171717" stroke-width="1.8"/></svg>`;
 
 function layerHTML(s, which) {
   const css = `@font-face{font-family:Manrope;font-weight:400;src:url(${pathToFileURL(path.join(ROOT, 'fonts/Manrope-Regular.ttf')).href})}
@@ -47,17 +47,17 @@ function layerHTML(s, which) {
     @font-face{font-family:Manrope;font-weight:600;src:url(${pathToFileURL(path.join(ROOT, 'fonts/Manrope-SemiBold.ttf')).href})}
     html,body{margin:0;width:1080px;height:1920px;background:transparent}*{box-sizing:border-box}
     .c{position:absolute;left:96px;right:96px;color:#171717;font-family:Manrope,sans-serif}
-    .k{font:500 19px/1.3 Manrope;letter-spacing:.3em;text-transform:uppercase;color:rgba(23,23,23,.62)}
-    .t{font:600 62px/1.08 Manrope;letter-spacing:.005em;margin-top:22px;max-width:820px}
-    .t.br{letter-spacing:.06em}
-    .l{font:400 31px/1.42 Manrope;max-width:760px}
-    .cap{font:600 17px/1 Manrope;letter-spacing:.3em;text-transform:uppercase;color:rgba(23,23,23,.62);margin-top:22px}
-    .cta{display:inline-flex;align-items:center;font:600 30px/1.3 Manrope;padding-bottom:10px;border-bottom:2px solid #171717;margin-top:34px}
-    .mark{position:absolute;left:96px;top:262px;font:600 20px/1 Manrope;letter-spacing:.38em;color:#171717}
+    .k{font:600 27px/1.3 Manrope;letter-spacing:.2em;text-transform:uppercase;color:#6B655E}
+    .t{font:600 84px/1.06 Manrope;letter-spacing:-.005em;margin-top:18px;max-width:888px;color:#111}
+    .t.br{letter-spacing:.04em;font-size:100px}
+    .l{font:500 40px/1.34 Manrope;max-width:888px;color:#1E1E1E}
+    .cap{font:600 26px/1 Manrope;letter-spacing:.2em;text-transform:uppercase;color:#6B655E;margin-top:22px}
+    .cta{display:inline-flex;align-items:center;font:600 40px/1.3 Manrope;padding-bottom:10px;border-bottom:3px solid #111;margin-top:28px}
+    .mark{position:absolute;left:96px;top:262px;font:600 24px/1 Manrope;letter-spacing:.34em;color:#111}
     .veil{position:absolute;left:0;top:0;width:1080px;height:1100px;background:linear-gradient(180deg,rgba(250,248,245,.72) 0%,rgba(250,248,245,.5) 45%,rgba(250,248,245,0) 100%)}`;
   let body = '';
-  if (which === 'base') body = `<div class="veil"></div><div class="mark">CREATURA</div>`;
-  if (which === 'a') body = `<div class="c" style="top:340px"><div class="k">${typo(s.kicker)}</div><div class="t ${/^[A-Z ]+$/.test(s.title) ? 'br' : ''}">${typo(s.title)}</div></div>`;
+  if (which === 'base') body = `<div class="mark">CREATURA</div>`;
+  if (which === 'a') body = `<div class="c" style="top:322px"><div class="k">${typo(s.kicker)}</div><div class="t ${/^[A-Z ]+$/.test(s.title) ? 'br' : ''}">${typo(s.title)}</div></div>`;
   if (which === 'b') body = `<div class="c" style="top:${s._lineTop}px"><div class="l">${typo(s.line)}</div>${s.cap ? `<div class="cap">${typo(s.cap)}</div>` : ''}${s.cta ? `<div><span class="cta">${typo(s.cta)}${ARROW}</span></div>` : ''}</div>`;
   return `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body>${body}</body></html>`;
 }
@@ -70,7 +70,8 @@ async function renderLayers() {
       await p.evaluate(async () => { await Promise.all(['400 20px Manrope', '500 20px Manrope', '600 20px Manrope'].map((x) => document.fonts.load(x, 'Жж'))); await document.fonts.ready; });
       if (!(await p.evaluate(() => document.fonts.check('600 20px Manrope', 'Ж')))) throw new Error('Manrope not loaded'); };
     await load('a');
-    s._lineTop = Math.round(await p.evaluate(() => document.querySelector('.c').getBoundingClientRect().bottom)) + 28;
+    s._lineTop = Math.round(await p.evaluate(() => document.querySelector('.c').getBoundingClientRect().bottom)) + 24;
+    await load('b'); s._panelH = Math.max(760, Math.round(await p.evaluate(() => document.querySelector('.c').getBoundingClientRect().bottom)) + 64);
     for (const w of ['base', 'a', 'b']) {
       await load(w);
       await p.screenshot({ path: path.join(TMP, `s${s.id}_${w}.png`), omitBackground: true });
@@ -101,11 +102,13 @@ function picture(s) {
 function compose(s, pic, withIntroFade) {
   const out = path.join(TMP, `s${s.id}_v.mp4`); const L = (w) => path.join(TMP, `s${s.id}_${w}.png`);
   const rise = (st) => `y='16*(1-min(1,max(0,(t-${st})/0.9)))'`;
+  const MH = 1920 - s._panelH; const Y0 = Math.max(0, Math.min(1920 - MH, s.focusY - MH / 2));
   const f = [
+    `color=c=0xF4F1EC:s=1080x1920:r=30:d=${s.dur}[bg]`, `[0:v]crop=1080:${MH}:0:${Y0}[med]`, `[bg][med]overlay=0:${s._panelH}[pv]`,
     `[1:v]format=rgba,fade=t=in:st=0.15:d=0.6:alpha=1[base]`,
     `[2:v]format=rgba,fade=t=in:st=0.45:d=0.9:alpha=1[a]`,
     `[3:v]format=rgba,fade=t=in:st=1.05:d=0.9:alpha=1[b]`,
-    `[0:v][base]overlay=0:0[v1]`, `[v1][a]overlay=0:${rise(0.45)}[v2]`, `[v2][b]overlay=0:${rise(1.05)}[v3]`,
+    `[pv][base]overlay=0:0[v1]`, `[v1][a]overlay=0:${rise(0.45)}[v2]`, `[v2][b]overlay=0:${rise(1.05)}[v3]`,
     `[v3]${withIntroFade ? 'fade=t=in:st=0:d=0.45:color=white,' : ''}format=yuv420p[v]`,
   ].join(';');
   ff(['-i', pic, ...['base', 'a', 'b'].flatMap((w) => ['-loop', '1', '-t', String(s.dur), '-i', L(w)]),
